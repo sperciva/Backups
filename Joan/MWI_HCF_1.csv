@@ -1,0 +1,763 @@
+﻿,SITE,District,HMIU_code,Facility type,Authority,Location rural/urban,Traditional authority,longitude,latitude,2020 Q1,2020 Q2,2020 Q3,2020 Q4,Code (number-distr-type-authority)
+1,Adventist Health Centre Lilongwe,Lilongwe,1563,Other hospital,Private,Urban,Area 14,-13.95473,33.7793,295,296,281,285,1.1.1.2
+2,African Bible College Clinic,Lilongwe,4040,Special / other site,Private,Urban,Area 47,-13.96816,33.74129,1242,1154,1268,1218,2.1.12.2
+3,Ahi Private Clinic,Zomba,2753,Special / other site,Private,Urban,Chirunga Ward,-15.38361,35.3223,87,84,85,72,3.2.12.2
+4,Airwing Clinic,Lilongwe,1557,Health centre,Public,Rural,TA Njewa,-13.96162,33.69679,379,423,399,455,4.1.4.1
+5,Akasale Private Clinic,Chiradzulu,2817,Special / other site,Private,Rural,TA Likoswe,-15.7596,35.11493,43,41,43,41,5.3.12.2
+6,Alinafe Community Hospital,Nkhotakota,1113,Rural / community hospital,Public,Rural,TA Mwadzama,-13.38794,34.24339,873,897,897,890,6.4.5.1
+7,Alliance One Clinic,Lilongwe,NA,Special / other site,Private,Urban,Area 29,-13.89571,33.80108,98,100,98,91,7.1.12.2
+8,Alumenda Health Centre,Chikwawa,3324,Health centre,Public,Rural,TA Ngabu,-16.15199,34.85376,373,367,387,388,8.5.4.1
+9,Amalika Health Centre,Thyolo,3126,Health post,Public,Rural,TA Bvumbwe,-15.98942,35.0316,130,135,138,152,9.6.6.1
+10,Amecca Chilaweni Health Centre,Blantyre,5077,Health centre,Public,Urban,TA Machinjiri,-15.70334,35.04439,132,156,170,180,10.7.4.1
+11,Area 18 Health Centre,Lilongwe,1501,Health centre,Public,Urban,Area 18,-13.941,33.781,4363,4367,4461,4569,11.1.4.1
+12,Area 18 Medi Clinic,Lilongwe,4076,Other hospital,Private,Urban,Area 18,-13.94454,33.77083,121,124,128,92,12.1.1.2
+13,Area 25 Health Centre,Lilongwe,1502,Health centre,Public,Urban,Area 25,-13.89242,33.77389,5720,5737,5883,6107,13.1.4.1
+14,Area 30 Police Clinic,Lilongwe,1544,Special / other site,Public,Urban,TA Chitukula,-13.92775,33.78439,1070,1053,1099,1142,14.1.12.1
+15,Area 36 Private Clinic,Lilongwe,1568,Special / other site,Private,Urban,TA Tsabango,-14.01825,33.77906,58,63,62,63,15.1.12.2
+16,Assalaam Clinic,Mangochi,2539,Special / other site,Private,Semi-urban,TA Chimwala,-14.54537,35.19221,759,738,715,690,16.8.12.2
+17,Atupele Health Centre,Karonga,216,Health centre,Public,Rural,TA Kilupula,-9.734133,33.83746,818,845,808,798,17.9.4.1
+18,Auction Holdings Limited Clinic Kanengo,Lilongwe,4049,Health centre,Private,Urban,TA Chitukula,-13.89089,33.79952,49,50,47,44,18.1.4.2
+19,Balaka District Hospital,Balaka,3601,District hospital,Public,Semi-urban,TA Msamala,-14.98514,34.94953,4274,4281,4272,4282,19.10.7.1
+20,Balaka Dream Clinic,Balaka,3616,Special / other site,Public,Semi-urban,TA Msamala,-15.00322,34.95248,2815,2828,2799,2819,20.10.12.1
+21,Balaka Opd Health Centre,Balaka,3602,Health centre,Public,Semi-urban,TA Msamala,-14.99119,34.96164,2750,2837,2912,2978,21.10.4.1
+22,Bangwe Health Centre,Blantyre,2924,Health centre,Public,Urban,Bangwe Mthandizi Ward,-15.82383,35.08047,5837,5870,6030,6262,22.7.4.1
+23,Bangwe Madina Health Centre,Blantyre,5044,Health centre,Public,Urban,TA Machinjiri,-15.82755,35.07409,538,590,593,633,23.7.4.1
+24,Baylor Childrens Centre Of Excellence In Malawi,Lilongwe,1559,Central hospital,Public,Urban,TA Chimutu,-13.97805,33.78703,2688,2643,2623,2604,24.1.8.1
+25,Bembeke Health Centre,Dedza,1701,Health centre,Public,Rural,TA Kamenya Gwaza,-14.35831,34.42453,769,768,782,800,25.12.4.1
+26,Benga Health Centre,Nkhotakota,1101,Health centre,Public,Rural,TA Mwadzama,-13.36853,34.27403,151,161,158,171,26.4.4.1
+27,Beleu Health Post,Chikwawa,3322,Health post,Public,Rural,TA Maseya,-16.01882,34.82305,842,855,835,842,27.5.6.1
+28,Bethsaida Private Hospital,Lilongwe,4060,Other hospital,Private,Urban,Area 10,-13.93387,33.79202,12,12,11,13,28.1.1.2
+29,Bilal Clinic,Chiradzulu,2813,Special / other site,Public,Semi-urban,TA Mpama,-15.73978,35.13047,3798,3705,3705,3687,29.3.12.1
+30,Bilila Health Centre,Ntcheu,1801,Health centre,Public,Rural,TA Makwangwala,-14.82561,34.85253,1464,1494,1442,1455,30.13.4.1
+31,Billy Riordan Memorial Health Clinic,Mangochi,2567,Health centre,Public,Rural,TA Nankumba,-14.03205,34.84044,1037,1013,953,939,31.8.4.1
+32,Bimbi Health Centre,Zomba,2701,Health centre,Public,Rural,TA Kuntumanji,-15.30922,35.47944,1275,1407,1319,1297,32.2.4.1
+33,Biliwiri Health Centre,Ntcheu,1802,Health centre,Public,Rural,TA Njolomole,-14.817,34.63831,1032,1022,1039,1026,33.13.4.1
+34,Blantyre Adventist Hospital,Blantyre,2930,District hospital,Private,Urban,TA Machinjiri,-15.7824,35.0031,1235,1239,1228,1245,34.7.7.2
+35,Blantyre City Assembly Clinic,Blantyre,2998,Special / other site,Public,Urban,TA Kapeni,-15.80328,35.03403,853,796,855,871,35.7.12.1
+36,Blantyre Dream Project,Blantyre,2994,Special / other site,Public,Rural,TA Kapeni,-15.79182,35.01273,4781,4783,4770,4760,36.7.12.1
+37,Blantyre Opd,Lilongwe,4075,Health centre,Private,Semi-urban,TA Tsabango,-13.95473,33.7793,270,286,284,265,37.1.4.2
+38,Blantyre Water Board Clinic,Blantyre,2941,Special / other site,Private,Urban,Ndirande Matope Ward,-15.7953,35.03811,69,96,107,121,38.7.12.2
+39,Blessings Hospital,Lilongwe,1566,Other hospital,Private,Semi-urban,TA Chitukula,-13.79099,33.81707,357,388,408,417,39.1.1.2
+40,Blm Karonga,Karonga,NA,Special / other site,Private,Urban,TA Kyungu,-9.940556,33.92417,234,244,232,218,40.9.12.2
+41,Blm Lunzu,Blantyre,2962,Special / other site,Private,Rural,TA Kapeni,-15.65114,35.02028,412,419,446,408,41.7.12.2
+42,Blm Rumphi,Rumphi,425,Special / other site,Private,Rural,TA Chikulamayembe,-11.0225,33.85547,64,67,54,60,42.14.12.2
+43,Blm Zomba,Zomba,2759,Special / other site,Private,Urban,Zomba Central Ward,-15.38919,35.31989,175,159,157,160,43.2.12.2
+44,Bolero Rural Hospital,Rumphi,401,Rural / community hospital,Public,Rural,TA Chikulamayembe,-10.97861,33.74306,1437,1415,1486,1519,44.14.5.1
+45,Bondo Health Centre,Mulanje,3201,Health centre,Public,Rural,Senior TA Sunganinzeru,-16.0425,35.61389,1210,1219,1176,1184,45.15.4.1
+46,Bowe Health Centre,Dowa,1301,Health centre,Public,Rural,TA Chakhaza,-13.27881,33.68406,364,361,364,382,46.16.4.1
+47,Bua Dispensary,Kasungu,1001,Dispensary,Public,Rural,TA Njombwa,-13.29372,33.5385,885,909,937,950,47.17.3.1
+48,Bua Health Centre,Nkhotakota,1102,Health centre,Public,Rural,TA Mphonde,-12.79644,34.20961,290,290,281,297,48.4.4.1
+49,Bula Health Centre,Nkhata Bay,301,Health centre,Public,Rural,TA M'bwana,-11.2225,34.12305,87,93,80,91,49.31.4.1
+50,Bulala Health Centre,Mzimba South,511,Health centre,Public,Rural,TA Chindi,-11.67836,33.44803,540,557,554,559,50.19.4.1
+51,Bunda College,Lilongwe,1556,Health centre,Public,Rural,TA Chadza,-14.18038,33.77554,179,196,199,235,51.1.4.1
+52,Bvumbwe Research Health Centre,Thyolo,3102,Health centre,Public,Semi-urban,TA Bvumbwe,-15.92853,35.0779,5555,5254,5391,5470,52.6.4.1
+53,Bwaila Hospital Martin Preuss Centre,Lilongwe,1503,District hospital,Public,Urban,TA Tsabango,-13.99103,33.77478,24090,24799,24846,25067,53.1.7.1
+54,Bwanje Health Centre,Ntcheu,1803,Health centre,Public,Rural,TA Goodson Ganya,-14.64867,34.77469,1099,1121,1034,1079,54.13.4.1
+55,Bwengu Health Centre,Mzimba North,402,Health centre,Public,Rural,TA Jaravikuba Munthali,-11.06361,33.91639,306,298,278,296,55.20.4.1
+56,Care Medical Clinic,Mzimba North,581,Special / other site,Private,Urban,TA Mtwalo,-11.4604,34.00696,18,18,23,22,56.20.12.2
+57,Carlsberg / Sobo Clinic Blantyre,Blantyre,5048,Special / other site,Private,Urban,TA Kapeni,-15.78667,35.03183,160,160,21,NA,57.7.12.2
+58,Carlsberg / Sobo Clinic Lilongwe,Lilongwe,4051,Special / other site,Private,Urban,Area 29,-13.90107,33.79697,5,5,5,5,58.1.12.2
+59,Central East African Railways Clinic,Blantyre,5049,Special / other site,Private,Urban,Bangwe Mthandizi Ward,-15.81536,35.0633,14,14,11,10,59.7.12.2
+60,Central Health Clinic Area 47,Lilongwe,4079,Special / other site,Private,Urban,Area 47,-13.95484,33.7631,24,26,25,27,60.1.12.2
+61,Chadza Health Centre,Lilongwe,1547,Health centre,Public,Rural,TA Chadza,-14.14731,33.8415,440,436,439,456,61.1.4.1
+62,Chagunda Health Centre,Salima,1423,Health centre,Public,Rural,TA Kambwiri,-13.87774,34.36712,238,249,252,256,62.22.4.1
+63,Chakhaza Health Centre,Dowa,1302,Health centre,Public,Rural,TA Chakhaza,-13.44431,33.64683,184,182,186,201,63.16.4.1
+64,Chamba Dispensary,Machinga,2601,Dispensary,Public,Rural,TA Chamba,-15.20236,35.42136,533,488,501,521,64.23.3.1
+65,Chamba Health Centre,Zomba,2702,Health centre,Public,Rural,TA Mwambo,-15.46567,35.51647,1226,1261,1287,1330,65.2.4.1
+66,Chambe Health Centre,Mulanje,3202,Health centre,Public,Rural,TA Nkanda,-15.90306,35.49028,1647,1978,2028,2108,66.15.4.1
+67,Chambo Health Centre,Chitipa,101,Health centre,Public,Rural,TA Mwenewenya,-9.943944,33.39797,235,235,226,227,67.24.4.1
+68,Champiti Health Centre,Ntcheu,1838,Health centre,Public,Rural,TA Champiti,-14.90241,34.73185,547,553,539,557,68.13.4.1
+69,Chamwabvi Dispensary,Kasungu,1002,Dispensary,Public,Rural,TA Chilowamatambe,-13.10758,33.68531,339,348,323,327,69.17.3.1
+70,Chancellor College Clinic,Zomba,2760,Special / other site,Public,Urban,Chirunga Ward,-15.38533,35.33213,118,122,116,134,70.2.12.1
+71,Changalume Barracks Clinic,Zomba,2740,Special / other site,Public,Rural,TA Mlumbe,-15.3896,35.21184,404,357,385,411,71.2.12.1
+72,Changata Health Centre,Thyolo,3103,Health centre,Public,Rural,TA Changata,-16.23239,35.14756,1506,1428,1421,1439,72.6.4.1
+73,Chankhungu Health Centre,Dowa,1303,Health centre,Public,Rural,TA Mkukula,-13.765,34.01469,627,625,616,626,73.16.4.1
+74,Chapananga Health Centre,Chikwawa,3302,Health centre,Public,Rural,TA Chapananga,-15.80778,34.38872,664,663,699,682,74.5.4.1
+75,Chavala Health Centre,Blantyre,2902,Health centre,Public,Rural,TA Kasisi,-15.83372,34.83461,231,247,236,175,75.7.4.1
+76,Chesamu Health Centre,Nkhata Bay,302,Health centre,Public,Rural,TA Kabunduli,-11.85425,34.01839,35,33,31,36,76.31.4.1
+77,Chichiri Escom Clinic,Blantyre,2987,Special / other site,Private,Urban,TA Kapeni,-15.79342,35.02444,178,178,172,199,77.7.12.2
+78,Chichiri Prison Clinic,Blantyre,2940,Health centre,Public,Urban,Soche East Ward,-15.80577,35.03242,379,331,337,416,78.7.4.1
+79,Chididi Health Centre Nkhotakota,Nkhotakota,1103,Health centre,Public,Rural,Senior TA Kalimanjira,-13.08578,34.31483,173,181,187,191,79.4.4.1
+80,Chididi Health Centre Nsanje,Nsanje,3401,Health centre,Public,Rural,TA Malemia,-16.915,35.17378,406,424,419,429,80.25.4.1
+81,Chiendausiku Health Centre,Balaka,3612,Health centre,Public,Semi-urban,TA Msamala,-15.01858,35.07647,782,770,775,805,81.10.4.1
+82,Chifunga Health Centre,Neno,3701,Health centre,Public,Rural,TA Mlauli,-15.62139,34.70972,591,592,606,610,82.26.4.1
+83,Chigodi Health Centre,Ntcheu,1804,Health centre,Public,Rural,TA Chakhumbira,-14.492,34.54153,215,211,213,218,83.13.4.1
+84,Chikande Health Centre,Ntcheu,1805,Health centre,Public,Rural,TA Makwangwala,-14.77281,34.908,535,532,541,542,84.13.4.1
+85,Chikangawa Health Centre,Mzimba South,503,Health centre,Public,Rural,TA Kampingo Sibande,-11.84342,33.80064,233,244,245,245,85.19.4.1
+86,Chikole Health Centre,Mangochi,2501,Dispensary,Public,Rural,TA Chowe,-14.42211,35.38417,501,511,484,511,86.8.3.1
+87,Chikowa Health Centre,Blantyre,2903,Health centre,Public,Rural,TA Kunthembwe,-15.67142,34.871,1039,1056,1078,1098,87.7.4.1
+88,Chikowa Health Centre Lilongwe,Lilongwe,1504,Health centre,Public,Rural,TA Kabudula,-13.72947,33.45819,228,241,235,220,88.1.4.1
+89,Chikuse Health Centre,Dedza,1702,Health centre,Public,Rural,TA Kasumbu,-14.1505,34.3187,398,408,432,441,89.12.4.1
+90,Chikwawa District Hospital,Chikwawa,3303,District hospital,Public,Semi-urban,TA Kasisi,-16.02345,34.79275,6272,6377,6504,6572,90.5.7.1
+91,Chikweo Health Centre,Machinga,2602,Health centre,Public,Rural,TA Chikweo,-14.76461,35.66819,1590,1566,1568,1597,91.23.4.1
+92,Chikwina Health Centre,Nkhata Bay,303,Health centre,Public,Rural,Senior TA Nyaluwanga,-11.39708,34.16953,158,167,159,161,92.31.4.1
+93,Chilambwe Health Centre,Nkhata Bay,304,Health centre,Public,Rural,TA Mankhambira,-11.69117,34.31631,297,303,313,307,93.31.4.1
+94,Chileka Health Centre Blantyre,Blantyre,2904,Health centre,Public,Rural,TA Kadewere,-15.68575,34.97014,2608,2626,2686,2792,94.7.4.1
+95,Chileka Health Centre Lilongwe,Lilongwe,1505,Health centre,Public,Rural,TA Kalolo,-14.02102,33.38544,1055,1064,1101,1129,95.1.4.1
+96,Chileka Sda Health Centre,Blantyre,2923,Health centre,Public,Rural,TA Kuntaja,-15.65989,34.92892,667,683,690,704,96.7.4.1
+97,Chilipa Health Centre Mangochi,Mangochi,2502,Health centre,Public,Rural,TA Chilipa,-14.70278,34.97389,1211,1200,1198,1288,97.8.4.1
+98,Chilipa Health Centre Zomba,Zomba,2703,Health centre,Public,Rural,TA Mlumbe,-15.3245,35.11692,651,656,665,NA,98.2.4.1
+99,Chilobwe Majiga Health Centre,Lilongwe,1548,Health centre,Public,Urban,TA Khongoni,-13.85467,33.37442,306,317,325,333,99.1.4.1
+100,Chilomoni Health Centre,Blantyre,2905,Health centre,Public,Urban,TA Machinjiri,-15.77128,34.9815,4310,4189,4257,4271,100.7.4.1
+101,Chilomoni Private Clinic,Blantyre,5002,Special / other site,Private,Urban,TA Machinjiri,-15.77355,34.98212,36,39,36,62,101.7.12.2
+102,Chilonga Health Centre,Mangochi,2541,Health centre,Public,Rural,TA Nankumba,-14.46426,34.87112,528,534,571,569,102.8.4.1
+103,Chilumba Barracks Clinic,Karonga,NA,Special / other site,Public,Rural,TA Wasambo,-10.38742,34.20869,558,573,570,571,103.9.12.1
+104,Chilumba Rural Hospital,Karonga,201,Rural / community hospital,Public,Rural,TA Wasambo,-10.43222,34.25139,1340,1272,1325,1299,104.9.5.1
+105,Chimaliro Health Centre,Thyolo,3104,Health centre,Public,Rural,TA Chimaliro,-15.978,35.18292,2458,2418,2386,2393,105.6.4.1
+106,Chimatilo Health Centre,Balaka,NA,Health centre,Public,Rural,Balaka Town,-14.98717,34.95176,114,127,119,126,106.10.4.1
+107,Chimbalanga Health Centre,Lilongwe,1506,Health centre,Public,Rural,Senior TA Chitekwele,-13.93633,34.12411,163,163,166,165,107.1.4.1
+108,Chimembe Health Centre,Blantyre,2906,Health centre,Public,Rural,TA Kuntaja,-15.77736,34.88533,390,429,453,457,108.7.4.1
+109,Chimoto Health Centre,Dedza,1703,Health centre,Public,Rural,TA Kachere,-14.44281,34.00997,472,457,448,446,109.12.4.1
+110,Chimvu Health Centre,Thyolo,3105,Health post,Public,Rural,TA Chitera,-15.94198,35.12308,1121,1132,1169,1135,110.6.6.1
+111,Chimwawa Health Centre,Chiradzulu,2822,Health centre,Public,Rural,TA Nkalo,-15.90917,35.25873,432,459,481,517,111.3.4.1
+112,Chinamwali Private Clinic,Zomba,2742,Special / other site,Private,Urban,TA Malemia,-15.3816,35.35584,244,245,275,323,112.2.12.2
+113,Chingale Health Centre,Zomba,2704,Health centre,Public,Rural,TA Mlumbe,-15.39692,35.18056,NA,879,933,953,113.2.4.1
+114,Chingazi Health Centre,Thyolo,3106,Health centre,Public,Semi-urban,TA Chimaliro,-15.91839,35.20605,620,637,648,654,114.6.4.1
+115,Chinguluwe Health Centre Ntchisi,Ntchisi,1201,Health centre,Public,Rural,TA Chilooko,-13.26153,33.86847,292,298,285,275,115.27.4.1
+116,Chinguluwe Health Centre Salima,Salima,1401,Health centre,Public,Semi-urban,TA Karonga,-13.66472,34.385,345,364,368,395,116.22.4.1
+117,Chinkhwiri Health Centre,Dowa,1305,Health centre,Public,Rural,TA Chakhaza,-13.38558,33.72078,205,206,204,203,117.16.4.1
+118,Chintcheche Rural Hospital,Nkhata Bay,305,Rural / community hospital,Public,Rural,TA Malanda,-11.82611,34.16889,1964,2016,2054,2091,118.31.5.1
+119,Chinthembwe Health Centre,Ntchisi,1202,Health centre,Public,Rural,TA Kalumo,-13.42889,33.90833,105,93,23,54,119.27.4.1
+120,Chinyama Health Centre,Mulanje,3203,Health centre,Public,Rural,TA Mabuka,-16.15661,35.34083,1689,1481,1510,1656,120.15.4.1
+121,Chioshya Health Centre,Mchinji,1601,Health centre,Public,Rural,TA Simphasi,-13.79583,33.175,488,489,454,443,121.28.4.1
+122,Chioza Health Centre,Lilongwe,1558,Health centre,Public,Rural,TA Chiseka,-14.12571,33.7212,313,321,349,329,122.1.4.1
+123,Chipho Health Centre,Thyolo,3124,Health centre,Public,Semi-urban,TA Nsabwe,-16.17153,35.11022,778,810,801,795,123.6.4.1
+124,Chiphwanya St Joseph Health Centre,Dedza,1704,Health centre,Public,Rural,TA Tambala,-14.07644,34.25883,624,635,651,661,124.12.4.1
+125,Chipini Health Centre,Zomba,2705,Health centre,Public,Rural,TA Mlumbe,-15.38981,35.09522,1647,1651,1667,1673,125.2.4.1
+126,Chipoka Health Centre,Salima,1402,Health centre,Public,Semi-urban,TA Ndindi,-13.9895,34.51556,819,839,873,832,126.22.4.1
+127,Chiponde Health Centre,Mangochi,2532,Health centre,Public,Rural,TA Jalasi,-14.37328,35.60158,1083,1109,1138,1145,127.8.4.1
+128,Chipumi Health Centre,Mchinji,1602,Health centre,Public,Rural,TA Kapondo,-13.62528,33.08139,435,451,474,457,128.28.4.1
+129,Chipwaila Health Centre,Chikwawa,3304,Health centre,Public,Rural,TA Ngabu,-16.39842,34.77572,1138,1149,1174,1167,129.5.4.1
+130,Chiradzulu District Hospital,Chiradzulu,2801,District hospital,Public,Semi-urban,TA Mpama,-15.69708,35.18756,6511,6501,6637,6666,130.3.7.1
+131,Chirimba Health Centre,Blantyre,2934,Health centre,Public,Urban,Michiru Ward,-15.74637,35.02298,2107,2147,2236,2269,131.7.4.1
+132,Chiringa Cham Health Centre,Phalombe,NA,Health centre,Public,Rural,TA Nazombe,-15.76583,35.76216,675,701,728,740,132.29.4.1
+133,Chiringa Maternity,Phalombe,3502,Special / other site,Public,Rural,TA Nazombe,-15.77244,35.76964,689,718,740,750,133.29.12.1
+134,Chisala Health Centre,Nkhata Bay,321,Health centre,Public,Rural,TA Timbiri,-11.57444,34.12194,292,300,310,316,134.31.4.1
+135,Chinsasu Health Post,Chitipa,136,Health post,Public,Rural,TA Mwenemisuku,-9.730938,33.45428,31,35,38,41,135.24.6.1
+136,Chisepo Health Centre,Dowa,1306,Health centre,Public,Rural,TA Kayembe,-13.63475,33.47039,129,124,128,125,136.16.4.1
+137,Chisitu Health Centre,Mulanje,3221,Health centre,Public,Rural,TA Chikumbu,-16.00103,35.4326,2122,2192,2229,1827,137.15.4.1
+138,Chisoka Health Centre,Thyolo,3127,Health centre,Public,Rural,TA Chimaliro,-15.94181,35.20879,1454,1479,1512,1382,138.6.4.1
+139,Chitala Health Centre,Salima,1403,Health centre,Public,Semi-urban,TA Khombedza,-13.67178,34.27158,213,219,215,222,139.22.4.1
+140,Chitawira Private Hospital,Blantyre,2948,Other hospital,Private,Urban,TA Kapeni,-15.81293,35.02274,393,400,406,406,140.7.1.2
+141,Chitedze Health Centre,Lilongwe,1507,Health centre,Public,Rural,TA Njewa,-13.97686,33.64528,1255,1261,1290,1320,141.1.4.1
+142,Chitekesa Health Centre,Phalombe,3503,Health centre,Public,Rural,TA Jenala,-15.55189,35.57275,2782,2815,2828,2772,142.29.4.1
+143,Chitera Health Centre,Chiradzulu,2802,Health centre,Public,Rural,TA Chitera,-15.60667,35.12289,1052,1051,1076,1067,143.3.4.1
+144,Chitheka Health Centre,Nkhata Bay,306,Health centre,Public,Rural,TA Kabunduli,-11.70167,33.95139,109,117,106,120,144.31.4.1
+145,Chithumba Health Centre,Chikwawa,3317,Health centre,Public,Rural,TA Chapananga,-15.80369,34.47629,198,215,202,203,145.5.4.1
+146,Chitimba Health Centre,Rumphi,403,Health centre,Public,Rural,TA Mwalweni,-10.59783,34.17028,266,267,279,268,146.14.4.1
+147,Chitipa District Hospital,Chitipa,102,District hospital,Public,Semi-urban,TA Mbiza,-9.70159,33.2659,4252,4319,4385,4454,147.24.7.1
+148,Chitowo Health Centre,Dedza,1705,Health centre,Public,Rural,TA Kaphuka,-14.22392,34.04042,303,302,325,318,148.12.4.1
+149,Chiumbangame Health Centre,Mangochi,2503,Health centre,Public,Rural,TA Jalasi,-14.31889,35.555,309,314,314,343,149.8.4.1
+150,Chiunda Health Centre,Mangochi,2533,Dispensary,Public,Rural,Senior TA Chiunda,-14.77744,35.43901,968,798,778,825,150.8.3.1
+151,Chiunjiza Health Centre,Lilongwe,1508,Health centre,Public,Rural,TA Masula,-14.40553,33.66864,261,274,278,281,151.1.4.1
+152,Chiwamba Health Centre,Lilongwe,1509,Health centre,Public,Rural,TA Chimutu,-13.85708,33.92892,569,585,602,610,152.1.4.1
+153,Chizolowondo Health Centre,Dowa,1321,Health centre,Public,Rural,TA Chakhaza,-13.46057,33.51317,212,212,205,207,153.16.4.1
+154,Choma Health Centre,Mzimba North,703,Health centre,Public,Rural,TA Mtwalo,-11.31289,33.99122,178,182,171,245,154.20.4.1
+155,Chonde Health Centre,Mulanje,3204,Health centre,Public,Rural,TA Nthiramanja,-15.99733,35.32317,3868,4044,4064,4129,155.15.4.1
+156,Chongoni Health Centre,Dedza,1706,Health centre,Public,Rural,TA Kaphuka,-14.323,34.26661,321,323,309,309,156.12.4.1
+157,Chulu Health Centre,Kasungu,1003,Health centre,Public,Rural,TA Chulu,-12.82186,33.30828,497,479,483,484,157.17.4.1
+158,City Centre Clinic,Lilongwe,1596,Special / other site,Private,Urban,Area 14,-13.95666,33.7839,62,55,75,107,158.1.12.2
+159,City Clinic Zomba,Zomba,2723,Health centre,Public,Rural,TA Chikowi,-15.39072,35.32416,1288,1309,1317,1336,159.2.4.1
+160,Cobbe Barracks Hospital,Zomba,2729,Health centre,Public,Urban,Mtiya Ward,-15.39075,35.30497,1323,1322,1318,1324,160.2.4.1
+161,Com Private Clinic,Blantyre,NA,Special / other site,Private,Urban,TA Kapeni,-15.80489,35.00567,36,38,43,48,161.7.12.2
+162,Comfort Clinic,Balaka,3614,Health centre,Public,Semi-urban,TA Msamala,-15.00318,34.95244,0,NA,0,0,162.10.4.1
+163,Daeyang Luke Hospital,Lilongwe,1553,Other hospital,Public,Urban,TA Chitukula,-13.87369,33.80896,2158,2113,2148,2096,163.1.1.1
+164,Dambe Health Centre,Neno,3714,Health centre,Public,Rural,TA Dambe,-15.38651,34.57778,138,144,144,148,164.26.4.1
+165,Dedza District Hospital,Dedza,1707,District hospital,Public,Semi-urban,TA Kamenya Gwaza,-14.38359,34.33354,5460,5279,5282,5310,165.12.7.1
+166,Diamphwe Health Centre,Lilongwe,1511,Health centre,Public,Rural,TA Mazengera,-14.13436,34.08153,506,512,522,552,166.1.4.1
+167,Dickson Health Centre,Lilongwe,1512,Health centre,Public,Rural,TA Masula,-14.26653,33.65881,483,481,490,487,167.1.4.1
+168,Didi Health Centre,Thyolo,3128,Health centre,Public,Rural,TA Mphuka,-16.06096,34.98999,565,575,569,572,168.6.4.1
+169,Discovery Medi Clinic,Lilongwe,1597,Special / other site,Private,Urban,Area 19,-13.95818,33.79159,130,136,138,127,169.1.12.2
+170,Dolo Health Centre,Chikwawa,3305,Health centre,Public,Rural,TA Ngabu,-16.47836,34.72347,900,894,894,962,170.5.4.1
+171,Domasi Rural Hospital,Zomba,2706,Rural / community hospital,Public,Rural,TA Malemia,-15.28083,35.39906,2286,2388,2381,2343,171.2.5.1
+172,Doviko Dispensary,Ntcheu,1806,Health centre,Public,Rural,TA Mpando,-15.08225,34.59072,140,157,160,161,172.13.4.1
+173,Dowa District Hospital,Dowa,1307,District hospital,Public,Semi-urban,Dowa Boma,-13.65508,33.93689,1326,1338,1331,1372,173.16.7.1
+174,Dr David Livingstone Memorial Clinic,Lilongwe,1570,Special / other site,Private,Urban,Area 33,-13.98173,33.78813,320,324,336,339,174.1.12.2
+175,Dr Msachi's Clinic,Mzimba North,552,Special / other site,Private,Urban,TA Mtwalo,-11.45771,34.01714,252,262,239,243,175.20.12.2
+176,Dwambazi Rural Hospital,Nkhotakota,1104,Rural / community hospital,Public,Semi-urban,TA Kafuzila,-12.234,33.99214,688,671,690,691,176.4.5.1
+177,Dwangwa Cane Growers Association Clinic,Nkhotakota,1120,Health centre,Public,Semi-urban,TA Kanyenda,-12.52114,34.1191,268,301,311,309,177.4.4.1
+178,Dwangwa Health Centre,Kasungu,1004,Health centre,Public,Rural,Senior TA Mphomwa,-12.88164,33.454,283,290,281,289,178.17.4.1
+179,Dwangwa Matiki Clinic,Nkhotakota,1118,Special / other site,Public,Rural,TA Kanyenda,-12.499,34.154,1616,1630,1636,1640,179.4.12.1
+180,Dzaleka Health Centre,Dowa,1308,Health centre,Public,Rural,TA Mkukula,-13.66478,33.86817,460,453,457,481,180.16.4.1
+181,Dzenje Maternity,Mulanje,3205,Special / other site,Public,Rural,TA Mabuka,-16.11706,35.40589,765,707,738,769,181.15.12.1
+182,Dzenza Health Centre,Lilongwe,1513,Health centre,Public,Urban,TA Chitukula,-13.87592,33.74706,892,925,936,979,182.1.4.1
+183,Dzindevu Health Centre,Dedza,1708,Health centre,Public,Rural,TA Kasumbu,-14.20039,34.36017,280,285,289,298,183.12.4.1
+184,Dziwe Health Centre,Blantyre,2907,Health centre,Public,Rural,TA Kuntaja,-15.56353,34.88053,664,681,733,752,184.7.4.1
+185,Dzoole Health Centre,Dowa,1309,Health centre,Public,Rural,TA Dzoole,-13.58522,33.66195,601,598,585,597,185.16.4.1
+186,Dzunje Dispensary,Ntcheu,1807,Dispensary,Public,Rural,TA Kwataine,-14.80783,34.73597,621,642,637,634,186.13.3.1
+187,Edingeni Health Centre,Mzimba South,505,Health centre,Public,Rural,TA M'Mbelwa,-12.04083,33.31278,472,479,456,467,187.19.4.1
+188,Ehehleni Dispensary,Mzimba South,506,Dispensary,Public,Rural,TA Mzikubola,-12.26211,33.5892,51,48,57,52,188.19.3.1
+189,Ekwendeni Mission Hospital,Mzimba North,704,District hospital,Public,Rural,TA Mtwalo,-11.20489,33.88336,2828,2813,2816,2848,189.20.7.1
+190,El-barakah Private Clinic,Blantyre,5008,Special / other site,Private,Urban,TA Kuntaja,-15.68337,34.96584,28,31,25,24,190.7.12.2
+191,Embangweni Mission Hospital,Mzimba South,507,District hospital,Public,Rural,TA Mzukuzuku,-12.13686,33.47606,1336,1294,1336,1384,191.19.7.1
+192,Emfeni Health Centre,Mzimba South,504,Health centre,Public,Rural,TA Mabulabo,-12.59394,33.60972,284,301,295,303,192.19.4.1
+193,Emsizini Health Centre,Mzimba North,721,Health centre,Public,Rural,TA Mtwalo,-11.44428,33.82497,219,224,222,214,193.20.4.1
+194,Endindeni Health Centre,Mzimba South,508,Health centre,Public,Rural,TA Chindi,-11.75789,33.556,716,723,718,733,194.19.4.1
+195,Engucwini Health Post,Mzimba North,705,Health post,Public,Rural,TA Mtwalo,-11.1975,33.82306,543,572,630,652,195.20.6.1
+196,Enukweni Health Centre,Mzimba North,706,Health centre,Public,Rural,TA Mtwalo,-11.18,33.88583,397,414,424,441,196.20.4.1
+197,Enukweni Mission Health Centre,Mzimba North,406,Health centre,Private,Rural,TA Mtwalo,-11.18005,33.88592,87,97,102,99,197.20.4.2
+198,Escom Clinic Lilongwe,Lilongwe,4052,Special / other site,Private,Urban,Area 3,-13.99195,33.77192,20,20,19,19,198.1.12.2
+199,Escom Clinic Mzuzu,Mzimba North,556,Health centre,Private,Urban,TA Mtwalo,-11.46287,34.02275,NA,45,46,46,199.20.4.2
+200,Euthini Community Hospital,Mzimba South,502,Rural / community hospital,Public,Rural,TA Chindi,-11.45836,33.41925,998,1018,955,1044,200.19.5.1
+201,Eva Demaya Centre,Rumphi,429,Special / other site,Public,Rural,TA Chikulamayembe,-10.95992,33.6485,178,182,195,334,201.14.12.1
+202,Fidelity Private Clinic,Lilongwe,1575,Special / other site,Private,Urban,TA Chitukula,-13.88261,33.76976,40,44,48,52,202.1.12.2
+203,Fpam Clinic Dedza,Dedza,NA,Health centre,Public,Urban,TA Kachere,-14.38844,34.31768,161,166,171,182,203.12.4.1
+204,Fpam Clinic Dowa,Dowa,1330,Health centre,Private,Semi-urban,Dowa Boma,-13.65829,33.93283,21,18,20,19,204.16.4.2
+205,Fpam Clinic Kasungu,Kasungu,NA,Health centre,Private,Urban,TA Kaomba,-13.03955,33.48436,514,529,474,488,205.17.4.2
+206,Fpam Clinic Kawale,Lilongwe,4002,Health centre,Private,Urban,TA Tsabango,-13.99076,33.79949,334,356,383,344,206.1.4.2
+207,Fpam Clinic Mangochi,Mangochi,NA,Special / other site,Public,Semi-urban,TA Mponda,-14.465,35.24641,16,19,24,24,207.8.12.1
+208,Fpam Clinic Mzuzu,Mzimba North,NA,Health centre,Private,Urban,TA Kampingo Sibande,-11.46149,34.01736,122,127,125,136,208.20.4.2
+209,Fpam Clinic Neno,Neno,NA,Health centre,Public,Urban,TA Chekucheku,-15.40471,34.65458,9,10,10,11,209.26.4.1
+210,Fpam Clinic Ntcheu,Ntcheu,1852,Health centre,Private,Urban,Ntcheu Boma,-14.80935,34.62561,358,397,399,389,210.13.4.2
+211,Friends Of Mulanje (fomo),Mulanje,3226,Health post,Private,Urban,Mulanje Boma,-16.00603,35.48167,187,183,180,179,211.15.6.2
+212,Fulirwa Health Centre,Karonga,202,Health centre,Public,Rural,TA Wasambo,-10.44778,34.11444,252,250,249,251,212.9.4.1
+213,Gaga Health Centre,Chikwawa,3306,Health centre,Public,Rural,TA Chapananga,-15.80778,34.37203,811,782,787,742,213.5.4.1
+214,Ganya Health Centre,Ntcheu,1808,Health centre,Public,Rural,TA Goodson Ganya,-14.60989,34.61811,671,648,671,687,214.13.4.1
+215,Gateway Clinic,Blantyre,2999,Dispensary,Public,Urban,TA Kapeni,-15.80457,35.01783,1500,1479,1545,1589,215.7.3.1
+216,Gawanani Health Centre,Machinga,2603,Health centre,Public,Rural,TA Nkula,-15.22381,35.20311,948,951,927,948,216.23.4.1
+217,Gogode Dispensary,Kasungu,1021,Health centre,Public,Rural,TA Kaomba,-12.88783,33.56153,252,239,239,228,217.17.4.1
+218,Golomoti Health Centre,Dedza,1725,Health centre,Public,Rural,TA Kachindamoto,-14.41286,34.60089,710,748,785,832,218.12.4.1
+219,Gombe Health Centre,Thyolo,3107,Health post,Public,Rural,Senior TA Thukuta,-16.38347,35.23061,770,787,784,745,219.6.6.1
+220,Good Hope Private Clinic,Lilongwe,4080,Other hospital,Private,Urban,Area 3,-14.00656,33.76453,33,35,37,35,220.1.1.2
+221,Gowa Health Centre,Ntcheu,1809,Health centre,Public,Rural,TA Njolomole,-14.69897,34.58992,380,396,389,405,221.13.4.1
+222,Guillime Mission Hospital,Mchinji,1603,Rural / community hospital,Public,Rural,TA Zulu,-13.89,33.07555,959,962,987,995,222.28.5.1
+223,Gumba Health Centre,Mchinji,1616,Health centre,Public,Rural,Senior TA Gumba,-13.42125,33.11137,228,232,234,232,223.28.4.1
+224,H Parker Sharp Dispensary,Zomba,2707,Health centre,Public,Rural,TA Malemia,-15.29908,35.36083,229,234,237,242,224.2.4.1
+225,Hallena Oakley Ntambanyama Health Centre,Thyolo,3108,Health centre,Public,Rural,TA Kwethemule,-16.12669,35.0845,204,224,241,266,225.6.4.1
+226,Hoho Health Centre,Mzimba South,509,Health centre,Public,Rural,TA Mzikubola,-12.27819,33.68653,127,130,128,132,226.19.4.1
+227,Home Of Hope Clinic,Mchinji,NA,Special / other site,Public,Rural,Senior TA Nyoka,-13.71501,32.90016,71,79,85,88,227.28.12.1
+228,Iba Health Centre,Mangochi,2534,Health centre,Public,Rural,TA Jalasi,-14.30711,35.39707,59,91,120,140,228.8.4.1
+229,Ifumbo Health Centre,Chitipa,103,Health centre,Public,Rural,TA Mwabulambya,-9.604445,33.40472,98,101,100,99,229.24.4.1
+230,Iponga Health Centre,Karonga,204,Health centre,Public,Rural,TA Mwakaboko,-9.645833,33.8125,883,898,935,912,230.9.4.1
+231,Jalasi Health Centre,Mangochi,2504,Health centre,Public,Rural,TA Jalasi,-14.36297,35.44253,1444,1412,1432,1465,231.8.4.1
+232,Jenda Health Centre,Mzimba South,510,Health centre,Public,Rural,TA Mzikubola,-12.35208,33.54753,1261,1300,1235,1223,232.19.4.1
+233,Jti Leaf Clinic Kanengo,Lilongwe,4081,Health centre,Private,Urban,TA Chitukula,-13.8898,33.80487,40,38,33,32,233.1.4.2
+234,Kabudula Rural Hospital,Lilongwe,1514,Rural / community hospital,Public,Rural,TA Kabudula,-13.81967,33.44864,1036,1048,1078,1069,234.1.5.1
+235,Kabuwa Health Centre,Mzimba South,530,Health centre,Public,Rural,TA Khosolo Gwaza Jere,-12.517,34.07405,216,223,214,221,235.19.4.1
+236,Kabwafu Health Centre,Mzimba North,720,Health centre,Public,Rural,TA Mpherembe,-11.30864,33.52581,248,260,266,290,236.20.4.1
+237,Kachere Health Centre,Nkhata Bay,308,Health centre,Public,Rural,TA Fukamapiri,-12.00306,34.04972,605,624,661,701,237.31.4.1
+238,Kachere Private Clinic,Lilongwe,1578,Other hospital,Private,Urban,TA Tsabango,-14.00511,33.81734,635,650,633,639,238.1.1.2
+239,Kadango Dispensary,Mangochi,2535,Dispensary,Private,Semi-urban,TA Namabvi,-14.05946,35.18624,332,298,300,298,239.8.3.2
+240,Kadidi Health Centre,Blantyre,2995,Health centre,Public,Rural,TA Kapeni,-15.66083,35.02212,1339,1330,1412,1434,240.7.4.1
+241,Kafere Health Centre,Dedza,1709,Health centre,Public,Rural,TA Kachere,-14.43172,33.71767,176,183,174,178,241.12.4.1
+242,Kafukule Health Centre,Mzimba North,707,Health centre,Public,Rural,TA Mtwalo,-11.45736,33.6338,520,533,528,563,242.20.4.1
+243,Kaigwazanga Health Centre,Mchinji,1604,Health centre,Public,Rural,TA Mkanda,-13.62667,32.92805,740,749,766,784,243.28.4.1
+244,Kakoma Health Centre,Chikwawa,3307,Health centre,Public,Rural,TA Chapananga,-16.00547,34.48569,606,603,600,617,244.5.4.1
+245,Kalemba Community Hospital,Nsanje,3402,Health centre,Public,Rural,TA Mbenje,-16.57539,35.11175,2466,2437,2476,2512,245.25.4.1
+246,Kalembo Health Centre,Balaka,3603,Health centre,Public,Rural,TA Kalembo,-14.85814,35.17619,1838,1883,1880,1959,246.10.4.1
+247,Kalikene Private Clinic,Kasungu,1045,Special / other site,Private,Semi-urban,TA Kaomba,-13.0389,33.48138,140,134,101,111,247.17.12.2
+248,Kalikumbi Health Centre,Mzimba South,512,Health centre,Public,Rural,TA M'Mbelwa,-12.20403,33.33369,262,262,291,271,248.19.4.1
+249,Kalimanjira Health Centre,Ntcheu,1839,Health centre,Public,Rural,Senior TA Mkutumula,-14.86668,34.90893,226,247,257,270,249.13.4.1
+250,Kalinde Health Centre,Phalombe,3505,Health centre,Public,Rural,TA Kaduya,-15.67206,35.72844,2187,1946,1957,1944,250.29.4.1
+251,Kalulu Health Centre Chikwawa,Chikwawa,3360,Health centre,Public,Rural,TA Lundu,-16.24144,34.91164,866,847,854,875,251.5.4.1
+252,Kaluluma Rural Hospital,Kasungu,1005,Rural / community hospital,Public,Rural,TA Kaluluma,-12.58119,33.51883,572,592,593,600,252.17.5.1
+253,Kambenje Health Centre,Mulanje,3206,Health centre,Public,Rural,TA Nkanda,-15.85311,35.564,1922,1916,1926,1954,253.15.4.1
+254,Kamboni Health Centre,Kasungu,1006,Health centre,Public,Rural,TA Kawamba,-13.30758,33.18172,300,297,296,316,254.17.4.1
+255,Kameme Health Centre,Chitipa,104,Health centre,Public,Rural,TA Kameme,-9.544139,33.13122,544,518,535,546,255.24.4.1
+256,Kamteteka Health Centre,Mzimba South,513,Health centre,Public,Rural,TA M'Mbelwa,-11.83678,33.35925,353,361,338,369,256.19.4.1
+257,Kamuzu Academy Clinic,Kasungu,1054,Special / other site,Private,Semi-urban,TA Wimbe,-13.02938,33.68843,19,19,19,19,257.17.12.2
+258,Kamuzu Barracks,Lilongwe,1545,Special / other site,Public,Urban,Area 35,-13.98131,33.82105,1464,1509,1509,1504,258.1.12.1
+259,Kamuzu Central Hospital,Lilongwe,1520,Central hospital,Public,Urban,Area 33,-13.97686,33.78586,1042,1037,1042,1058,259.1.8.1
+260,Kamwe Health Centre,Mzimba North,708,Health centre,Public,Rural,TA Mtwalo,-11.10306,33.78889,435,429,406,430,260.20.4.1
+261,Kande Health Centre,Nkhata Bay,309,Health centre,Public,Rural,TA Fukamapiri,-11.93556,34.10917,628,573,664,683,261.31.4.1
+262,Kandeu Health Centre,Ntcheu,1812,Health centre,Public,Rural,TA Goodson Ganya,-14.60303,34.61625,627,637,713,659,262.13.4.1
+263,Kanengo Tobacco Processors Clinic,Lilongwe,4053,Health centre,Private,Urban,TA Chitukula,-13.902,33.80639,19,19,17,20,263.1.4.2
+264,Kangolwa Health Centre,Ntchisi,1204,Health centre,Public,Rural,TA Kasakula,-13.37033,34.07039,302,317,323,303,264.27.4.1
+265,Kang'oma Health Centre,Lilongwe,1515,Health centre,Public,Rural,TA Tsabango,-13.97819,33.88197,471,500,483,514,265.1.4.1
+266,Kanjedza Police Clinic,Blantyre,2957,Dispensary,Public,Urban,TA Kapeni,-15.81227,35.05504,239,252,259,249,266.7.3.1
+267,Kankao Health Centre,Balaka,3604,Health centre,Public,Rural,TA Chanthunya,-15.05433,34.9227,594,603,613,539,267.10.4.1
+268,Kamsonga Health Centre,Ntchisi,1203,Health centre,Public,Rural,TA Malenga,-13.27406,33.79945,377,385,402,406,268.27.4.1
+269,Kanyama Health Centre,Dedza,1711,Health centre,Public,Rural,TA Kasumbu,-14.2395,34.3237,447,426,433,462,269.12.4.1
+270,Kanyezi Health Centre,Dedza,1712,Health centre,Public,Rural,TA Chilikumwendo,-14.39033,34.0718,339,352,348,368,270.12.4.1
+271,Kapanga Health Centre,Mchinji,1605,Health centre,Public,Rural,TA Mavwere,-14.06,33.30611,494,498,487,479,271.28.4.1
+272,Kapelula Health Centre,Kasungu,1007,Health centre,Public,Rural,TA Kapelula,-12.87775,33.87094,367,381,353,356,272.17.4.1
+273,Kapenda Health Centre,Chitipa,105,Health centre,Public,Rural,Senior TA Bulambya Songwe,-9.494555,33.24908,260,265,272,273,273.24.4.1
+274,Kapeni Dream Centre,Blantyre,2966,Health centre,Public,Rural,TA Kapeni,-15.62399,35.01514,490,488,483,489,274.7.4.1
+275,Kapeni Health Centre,Ntcheu,1813,Health centre,Public,Rural,TA Phambala,-15.00461,34.77,453,462,473,482,275.13.4.1
+276,Kaphatenga Health Centre,Salima,1418,Health centre,Public,Semi-urban,TA Karonga,-13.76269,34.38356,245,260,309,262,276.22.4.1
+277,Kaphuka Health Centre,Dedza,1713,Health centre,Public,Rural,TA Kaphuka,-14.04406,34.3055,808,808,794,822,277.12.4.1
+278,Kapichira Escom Clinic,Chikwawa,3318,Dispensary,Private,Rural,TA Kasisi,-15.78628,35.03414,111,109,109,152,278.5.3.2
+279,Kapili Health Centre,Nkhotakota,1105,Health centre,Public,Rural,TA Mwadzama,-13.21619,34.31144,533,538,533,550,279.4.4.1
+280,Kapire Dream Centre,Mangochi,2566,Health centre,Public,Rural,TA Chilipa,-14.78587,34.9991,1018,995,1025,1028,280.8.4.1
+281,Kapiri Mission Hospital,Mchinji,1606,District hospital,Public,Rural,TA Dambe,-13.56194,33.17361,2550,2553,2576,2603,281.28.7.1
+282,Kaporo Rural Hospital,Karonga,205,Rural / community hospital,Public,Rural,TA Kilupula,-9.767222,33.87444,2077,2126,1994,2105,282.9.5.1
+283,Karonga District Hospital,Karonga,206,District hospital,Public,Semi-urban,TA Kyungu,-9.955,33.91139,4975,4971,5059,5150,283.9.7.1
+284,Kasalika Health Centre,Kasungu,1018,Health centre,Public,Rural,TA Kaomba,-13.03985,33.49866,308,335,323,336,284.17.4.1
+285,Kasese Health Centre,Dowa,1322,Health centre,Public,Semi-urban,TA Chakhaza,-13.33052,33.57617,286,279,275,281,285.16.4.1
+286,Kaseye Mission Hospital,Chitipa,106,District hospital,Public,Rural,TA Mwabulambya,-9.666389,33.37389,243,243,252,249,286.24.7.1
+287,Kasina Health Centre,Dedza,1714,Health centre,Public,Rural,TA Kaphuka,-14.14011,34.1315,676,723,691,706,287.12.4.1
+288,Kasinje Health Centre,Ntcheu,1814,Health centre,Public,Rural,TA Ganya,-14.52315,34.67642,1583,1634,1641,1661,288.13.4.1
+289,Kasitu Health Centre,Nkhotakota,1119,Health centre,Public,Rural,TA Kafuzila,-12.30938,34.0343,371,355,363,371,289.4.4.1
+290,Kasoba Health Centre,Karonga,217,Health post,Public,Rural,TA Kyungu,-9.87361,33.87028,722,755,746,745,290.9.6.1
+291,Kasungu District Hospital,Kasungu,1008,District hospital,Public,Semi-urban,Kasungu Boma,-13.03617,33.47984,6532,6517,6552,6688,291.17.7.1
+292,Katawa Health Centre,Salima,1424,Health centre,Public,Rural,TA Karonga,-13.71314,34.31801,286,289,270,269,292.22.4.1
+293,Katchale Health Centre,Lilongwe,1516,Health centre,Public,Rural,TA Chadza,-14.2836,33.908,288,278,282,279,293.1.4.1
+294,Katema Health Centre,Mangochi,2506,Health centre,Public,Rural,TA Mponda,-14.52563,35.03761,1121,1109,1116,1151,294.8.4.1
+295,Katete Community Hospital,Mzimba South,514,Rural / community hospital,Public,Rural,TA Mabulabo,-12.34592,33.61421,562,554,559,563,295.19.5.1
+296,Katimbira Health Centre,Nkhotakota,1114,Health centre,Public,Rural,TA Kanyenda,-12.75716,34.21761,203,184,186,172,296.4.4.1
+297,Katowo Health Centre,Rumphi,408,Health centre,Public,Rural,TA Katumbi,-10.81278,33.52222,723,718,686,751,297.14.4.1
+298,Katsekera Health Centre,Ntcheu,1815,Health centre,Public,Rural,TA Mpando,-15.03336,34.64072,1036,1036,1048,1063,298.13.4.1
+299,Katuli Health Centre,Mangochi,2507,Health centre,Public,Rural,TA Katuli,-14.18,35.44453,2158,2220,2202,2329,299.8.4.1
+300,Kaundu Health Centre,Dedza,1726,Health centre,Public,Rural,TA Kachindamoto,-14.2937,34.6287,501,514,514,579,300.12.4.1
+301,Kavuzi Health Centre,Nkhata Bay,322,Health centre,Public,Rural,TA Kabunduli,-11.67441,34.08166,341,352,371,376,301.31.4.1
+302,Kawale Health Centre,Lilongwe,1517,Health centre,Public,Urban,TA Tsabango,-13.99175,33.79757,4082,4074,4200,4314,302.1.4.1
+303,Kawale Medical Services,Lilongwe,4018,Special / other site,Private,Urban,TA Tsabango,-13.99034,33.79717,64,64,65,65,303.1.12.2
+304,Kawamba Health Centre,Kasungu,1009,Health centre,Public,Rural,TA Kawamba,-13.296,33.339,679,675,659,670,304.17.4.1
+305,Kaweche Health Centre,Mzimba North,723,Health centre,Public,Rural,TA Mtwalo,-11.34058,33.86626,194,186,199,217,305.20.4.1
+306,Kawinga Health Centre,Machinga,2604,Health centre,Public,Rural,TA Kawinga,-14.8548,35.572,504,501,487,494,306.23.4.1
+307,Kayembe Health Centre,Dowa,1310,Health centre,Public,Rural,TA Kayembe,-13.64256,33.58301,295,290,289,288,307.16.4.1
+308,Khola Health Centre,Kasungu,1023,Health centre,Public,Rural,TA Chidzuma,-13.34414,33.31725,517,505,505,520,308.17.4.1
+309,Khombedza Health Centre,Salima,1406,Health centre,Public,Rural,TA Khombedza,-13.763,34.383,1479,1469,1491,1514,309.22.4.1
+310,Khongoni Health Centre,Lilongwe,1518,Health centre,Public,Rural,TA Khongoni,-13.7745,33.3675,728,738,754,758,310.1.4.1
+311,Khonjeni Health Centre,Thyolo,3109,Health centre,Public,Rural,TA Kapichi,-16.09669,35.27142,4133,4178,4188,3942,311.6.4.1
+312,Khosolo Health Centre,Mzimba South,515,Health centre,Public,Rural,TA Khosolo Gwaza Jere,-12.44031,33.79031,133,144,152,159,312.19.4.1
+313,Khuwi Health Centre,Ntchisi,1205,Health centre,Public,Rural,TA Kalumo,-13.43181,33.83395,271,280,288,281,313.27.4.1
+314,Khuyukuyu Health Centre,Mzimba North,717,Health centre,Public,Rural,TA Mtwalo,-11.22208,33.91447,232,224,238,456,314.20.4.1
+315,Koche Health Centre,Mangochi,2508,Health centre,Public,Rural,TA Mponda,-14.33333,35.14333,2453,2500,2583,2650,315.8.4.1
+316,Kochilira Health Centre,Mchinji,1607,Health centre,Public,Rural,TA Zulu,-13.78194,33.04306,1181,1161,1179,1167,316.28.4.1
+317,Kukalanga Health Centre,Mangochi,2509,Health centre,Public,Rural,TA Chimwala,-14.63722,35.18,2436,2436,2461,2589,317.8.4.1
+318,Kunenekude Health Centre,Mwanza,3002,Health centre,Public,Rural,TA Kanduku,-15.46444,34.49111,495,506,512,514,318.32.4.1
+319,Kwitanda Health Centre,Balaka,3613,Health centre,Public,Rural,TA Msamala,-15.06219,35.09287,668,685,683,707,319.10.4.1
+320,Lafarge Cement Clinic,Blantyre,5070,Special / other site,Private,Urban,TA Kapeni,-15.79231,35.02812,74,75,74,79,320.7.12.2
+321,Lakeview Health Centre,Ntcheu,1835,Health centre,Public,Rural,TA Njolomole,-14.642,34.55355,528,537,540,556,321.13.4.1
+322,Lambulira Health Centre,Zomba,2708,Health centre,Public,Rural,TA Chikowi,-15.48356,35.33683,1160,1200,1249,1274,322.2.4.1
+323,Lengwe Health Centre,Chikwawa,3309,Health centre,Public,Rural,TA Lundu,-16.28642,34.83881,264,264,264,282,323.5.4.1
+324,Life Line Salima Health Centre,Salima,1422,Health centre,Public,Semi-urban,TA Kambalame,-14.08898,34.54478,1396,1374,1392,1426,324.22.4.1
+325,Lifuwu Health Centre,Salima,1407,Health centre,Public,Rural,TA Kuluunda,-13.679,34.589,859,892,886,874,325.22.4.1
+326,Lighthouse,Lilongwe,4082,Special / other site,Public,Urban,TA Tsabango,-13.97639,33.78512,11573,11588,11613,11701,326.1.12.1
+327,Ligowe Health Centre,Neno,3702,Health centre,Public,Rural,TA Mlauli,-15.47368,34.65182,688,696,702,701,327.26.4.1
+328,Likangala Health Centre,Zomba,2709,Health centre,Public,Rural,TA Mwambo,-15.42783,35.54447,3173,3320,3482,3371,328.2.4.1
+329,Likuni Mission Hospital,Lilongwe,1519,District hospital,Public,Urban,TA Malili,-14.02761,33.7085,4316,4288,4385,4494,329.1.7.1
+330,Lilongwe City Assembly Chinsapo,Lilongwe,1582,Special / other site,Public,Urban,TA Malili,-14.01322,33.73167,760,809,801,827,330.1.12.1
+331,Lilongwe Health Clinic,Lilongwe,4083,Special / other site,Private,Urban,Area 3,-13.96642,33.76625,50,52,51,50,331.1.12.2
+332,Lilongwe Private Clinic,Lilongwe,4084,Special / other site,Private,Urban,Area 10,-13.93877,33.7921,214,216,214,223,332.1.12.2
+333,Limbe Diagnostic Centre,Blantyre,2959,Special / other site,Private,Urban,TA Machinjiri,-15.81863,35.05639,201,236,181,480,333.7.12.2
+334,Limbe Health Centre,Blantyre,2908,Health centre,Public,Urban,Limbe Central Ward,-15.81681,35.052,7859,7636,7758,7906,334.7.4.1
+335,Limbe Leaf Tobacco Clinic Lilongwe,Lilongwe,1584,Special / other site,Private,Urban,TA Chitukula,-13.89319,33.80263,100,100,119,119,335.1.12.2
+336,Linyangwa Health Centre,Kasungu,1020,Health centre,Public,Rural,TA Lukwa,-13.14381,33.30036,276,287,294,338,336.17.4.1
+337,Lirangwe Health Centre,Blantyre,2909,Health centre,Public,Rural,TA Lundu,-15.52939,35.02975,1694,1694,1714,1777,337.7.4.1
+338,Lisungwi Community Hospital,Neno,3703,Health centre,Public,Rural,TA Symon Likongwe,-15.43789,34.77465,805,855,852,841,338.26.4.1
+339,Liuzi Health Centre,Nkhata Bay,311,Health centre,Public,Rural,TA Zilakoma,-12.18944,34.01556,416,469,505,519,339.31.4.1
+340,Livingstonia Mission Hospital,Rumphi,404,District hospital,Public,Rural,TA Mwalweni,-10.60417,34.11097,305,308,313,304,340.14.7.1
+341,Liwaladzi Health Centre,Nkhotakota,1106,Health centre,Public,Rural,TA Kanyenda,-12.62072,34.1652,460,471,489,494,341.4.4.1
+342,Liwonde Medical Clinic,Machinga,2622,Special / other site,Private,Semi-urban,Liwonde Town,-15.06797,35.22478,384,430,356,325,342.23.12.2
+343,Lizulu Health Centre,Ntcheu,1816,Health centre,Public,Rural,TA Chakhumbira,-14.51772,34.46564,1228,1244,1289,1291,343.13.4.1
+344,Lobi Rural Hospital,Dedza,1715,Health centre,Public,Rural,TA Kachere,-14.39033,34.07183,1042,1063,1048,1095,344.12.4.1
+345,Lodjwa Health Centre,Kasungu,1051,Health centre,Public,Rural,Senior TA Chisikwa,-12.41892,33.52945,131,141,140,132,345.17.4.1
+346,Ludzi St Josephs Health Centre,Mchinji,1608,Health centre,Public,Rural,TA Zulu,-13.75861,32.99278,840,868,844,865,346.28.4.1
+347,Lughano Private Clinic,Karonga,NA,Special / other site,Private,Semi-urban,TA Kyungu,-9.937263,33.94109,NA,NA,0,0,347.9.12.2
+348,Lugola Health Centre,Mangochi,2510,Health centre,Public,Rural,TA Makanjila,-13.98556,35.28583,670,685,673,773,348.8.4.1
+349,Lujeri Health Centre,Mulanje,3220,Health centre,Public,Rural,TA Mabuka,-16.02826,35.65517,1101,1086,1090,1100,349.15.4.1
+350,Lulanga Health Centre,Mangochi,2511,Health centre,Public,Rural,Senior TA Lulanga,-13.68722,34.91722,1174,1173,1220,1242,350.8.4.1
+351,Lulwe Health Centre,Nsanje,3403,Health centre,Public,Rural,TA Ndamera,-17.08761,35.11417,397,395,396,387,351.25.4.1
+352,Lumbadzi Health Centre,Lilongwe,1521,Health centre,Public,Urban,TA Chitukula,-13.77081,33.805,1404,1410,1392,1450,352.1.4.1
+353,Lumbira / Mitsidi Health Centre,Blantyre,2914,Health centre,Public,Urban,TA Kuntaja,-15.77702,34.96873,376,373,387,395,353.7.4.1
+354,Lundu Health Centre,Blantyre,2910,Health centre,Public,Rural,TA Lundu,-15.42172,35.01303,1016,1036,1057,1091,354.7.4.1
+355,Lungwena Health Centre,Mangochi,2512,Health centre,Public,Rural,TA Namabvi,-14.24494,35.24842,1330,1255,1300,1363,355.8.4.1
+356,Lunjika Health Centre,Mzimba South,516,Health centre,Public,Rural,TA Kampingo Sibande,-11.76436,33.6857,408,405,399,407,356.19.4.1
+357,Lupembe Health Centre,Karonga,207,Health centre,Public,Rural,TA Kyungu,-10.06611,33.98778,412,428,419,412,357.9.4.1
+358,Lura Health Centre,Rumphi,423,Health centre,Public,Rural,Senior TA Kachulu,-10.72366,34.04407,175,168,179,193,358.14.4.1
+359,Luvwere Health Centre,Mzimba North,709,Health centre,Public,Rural,TA Mtwalo,-11.38903,33.67292,137,149,139,154,359.20.4.1
+360,Luwalika Health Centre,Mangochi,2513,Health centre,Public,Rural,TA Katuli,-14.23803,35.46964,338,347,402,334,360.8.4.1
+361,Luwani Health Centre,Neno,3704,Health centre,Public,Rural,TA Symon Likongwe,-15.47944,34.7425,191,172,176,183,361.26.4.1
+362,Luwawa Health Centre,Mzimba South,517,Health centre,Public,Rural,TA Mzikubola,-12.11342,33.71955,87,99,103,124,362.19.4.1
+363,Luwazi Health Centre,Nkhata Bay,312,Health centre,Public,Rural,TA Timbiri,-11.51867,34.15125,190,190,197,198,363.31.4.1
+364,Luwelezi Health Centre,Mzimba South,518,Health centre,Public,Rural,TA Mabulabo,-12.48828,33.6413,555,566,445,451,364.19.4.1
+365,Luwuchi Health Centre,Rumphi,409,Health centre,Public,Rural,TA Mwalweni,-10.68361,34.19258,228,230,225,227,365.14.4.1
+366,Luzi Health Centre,Mzimba North,710,Health centre,Public,Rural,TA Jaravikuba Munthali,-10.99686,33.95589,274,254,264,269,366.20.4.1
+367,Lwezga Health Centre,Karonga,208,Health centre,Public,Rural,TA Wasambo,-10.56667,34.17944,149,158,157,165,367.9.4.1
+368,Mabiri Health Centre,Mzimba South,519,Health centre,Public,Rural,TA Mzukuzuku,-12.24625,33.42997,300,311,307,327,368.19.4.1
+369,Machinga District Hospital,Machinga,2605,District hospital,Public,Semi-urban,TA Kasitola,-15.06222,35.22611,8789,8745,8773,8862,369.23.7.1
+370,Machinga Health Centre,Machinga,2606,Health centre,Public,Semi-urban,TA Nkula,-15.17742,35.29564,653,792,689,742,370.23.4.1
+371,Machinjiri Health Centre,Zomba,2733,Health centre,Public,Rural,TA Malemia,-15.23425,35.4178,533,542,560,563,371.2.4.1
+372,Macro Blantyre,Blantyre,2900,Special / other site,Public,Urban,TA Machinjiri,-15.783,35.005,4439,4439,4435,4450,372.7.12.1
+373,Macro Chirimba,Blantyre,2956,Special / other site,Public,Urban,TA Machinjiri,-15.74746,35.02453,239,331,343,362,373.7.12.1
+374,Macro Lilongwe,Lilongwe,1562,Special / other site,Public,Urban,Area 1,-13.99819,33.776,2598,2566,2611,2625,374.1.12.1
+375,Macro Mzuzu,Mzimba North,782,Special / other site,Public,Urban,Mzuzu City,-11.46525,34.01461,2726,2715,2729,2725,375.20.12.1
+376,Madede Health Centre,Mzimba South,520,Health centre,Public,Rural,TA Chindi,-11.53894,33.29456,277,285,290,307,376.19.4.1
+377,Madisi Mission Hospital,Dowa,1311,District hospital,Public,Semi-urban,TA Chakhaza,-13.40708,33.60725,1614,1616,1620,1655,377.16.7.1
+378,Madziabango Health Centre,Blantyre,2911,Health centre,Public,Rural,TA Somba,-15.96817,34.91058,747,753,761,768,378.7.4.1
+379,Maera Health Centre,Zomba,2739,Health centre,Public,Rural,TA Changalume,-15.50987,35.1315,252,253,256,257,379.2.4.1
+380,Mafco Health Centre,Salima,1420,Health centre,Public,Semi-urban,TA Maganga,-13.78447,34.60355,768,801,810,807,380.22.4.1
+381,Maganga Health Centre,Salima,1408,Health centre,Public,Rural,TA Maganga,-13.84678,34.55914,837,850,806,819,381.22.4.1
+382,Magaleta Health Centre,Neno,3705,Health centre,Public,Rural,TA Mlauli,-15.54944,34.63194,298,301,299,306,382.26.4.1
+383,Magomero Health Centre,Zomba,2710,Health centre,Public,Rural,Senior TA Ntholowa,-15.55639,35.26272,1169,1191,1221,1195,383.2.4.1
+384,Mahowe Health Centre,Chitipa,126,Health centre,Public,Rural,Senior TA Nthengatenga,-10.18319,33.69035,70,75,75,78,384.24.4.1
+385,Majete (epicenter) Health Centre,Chikwawa,3330,Health centre,Public,Rural,TA Chapananga,-16.27045,34.86368,35,39,38,43,385.5.4.1
+386,Makanjira Health Centre,Mangochi,2514,Health centre,Public,Rural,TA Makanjila,-13.71528,35.04694,1228,1246,1411,1439,386.8.4.1
+387,Makapwa Health Centre,Thyolo,3110,Health centre,Public,Rural,TA Kapichi,-16.18199,35.27984,788,798,782,799,387.6.4.1
+388,Makata Health Centre Lunzu,Blantyre,NA,Health centre,Public,Rural,TA Makata,-15.62996,35.07964,714,721,760,793,388.7.4.1
+389,Makhanga Health Centre,Nsanje,3404,Health centre,Public,Rural,TA Mlolo,-16.52175,35.17347,1212,1209,1222,1234,389.25.4.1
+390,Makhetha Clinic,Blantyre,5072,Dispensary,Public,Urban,TA Machinjiri,-15.62996,35.07964,1632,1644,1729,1769,390.7.3.1
+391,Makhwira Health Centre,Chikwawa,3310,Health centre,Public,Rural,Chikwawa Boma,-16.02525,34.78955,2453,2387,2383,2193,391.5.4.1
+392,Makioni Health Centre,Salima,1409,Health centre,Public,Rural,TA Mwanza,-13.58625,34.19725,379,388,377,403,392.22.4.1
+393,Makungwa Health Centre,Thyolo,3101,Health centre,Public,Rural,TA Bvumbwe,-15.93967,35.02636,1902,1774,1811,1834,393.6.4.1
+394,Makwapala Health Centre,Zomba,2711,Health centre,Public,Rural,Senior TA Nkagula,-15.36936,35.45694,1605,1624,1667,1697,394.2.4.1
+395,Makwasa Estate Clinic,Thyolo,3150,Health centre,Public,Rural,TA Kwethemule,-16.19476,35.10564,93,94,100,104,395.6.4.1
+396,Malabada Health Centre,Blantyre,2933,Health centre,Public,Urban,TA Machinjiri,-15.76495,35.04441,631,678,635,847,396.7.4.1
+397,Malambo St Theresa Health Centre,Ntchisi,1208,Health centre,Public,Rural,TA Chilooko,-13.21307,33.76244,126,123,123,120,397.27.4.1
+398,Malamulo Day Clinic,Blantyre,2965,Other hospital,Private,Urban,TA Machinjiri,-15.80361,35.07471,173,172,158,176,398.7.1.2
+399,Malamulo Mission Hospital,Thyolo,3111,District hospital,Public,Rural,TA Kwethemule,-16.17144,35.10942,4937,4852,5006,4974,399.6.7.1
+400,Malawi Army Marine Camp Hospital,Mangochi,2569,Dispensary,Public,Semi-urban,TA Mbwana Nyambi,-14.073,34.91684,877,994,971,990,400.8.3.1
+401,Maldeco Fisheries Clinic,Mangochi,2545,Dispensary,Private,Rural,NA,-14.3335,35.1492,1680,NA,NA,NA,401.8.3.2
+402,Malembo Health Centre Lilongwe,Lilongwe,1583,Health centre,Public,Rural,TA Khongoni,-13.61989,33.41481,293,293,308,325,402.1.4.1
+403,Malembo Health Centre Mangochi,Mangochi,2515,Health centre,Public,Rural,TA Nankumba,-14.23642,34.82536,1434,1413,1459,1463,403.8.4.1
+404,Malidade Health Centre,Mzimba North,711,Health centre,Public,Rural,TA Mpherembe,-11.22889,33.5,180,161,166,187,404.20.4.1
+405,Malingunde Health Centre,Lilongwe,1522,Health centre,Public,Rural,TA Masumbankhunda,-14.16872,33.6395,1020,1052,1080,1138,405.1.4.1
+406,Malmed Private Clinic,Blantyre,3005,Special / other site,Private,Urban,TA Kapeni,-15.78655,35.00747,381,398,401,425,406.7.12.2
+407,Malombe Health Centre,Mangochi,2536,Health centre,Public,Rural,TA Chowe,-14.62803,35.34894,891,873,870,894,407.8.4.1
+408,Malomo Health Centre,Ntchisi,1206,Health centre,Public,Rural,TA Chilooko,-13.149,33.838,835,864,890,936,408.27.4.1
+409,Malowa Health Centre,Nkhotakota,1116,Health centre,Public,Rural,TA Mwadzama,-13.18167,34.25145,282,270,277,289,409.4.4.1
+410,Malukula Health Centre,Mangochi,2542,Health centre,Public,Rural,TA Chowe,-14.44141,35.35553,724,731,757,778,410.8.4.1
+411,Maluwa Health Centre,Lilongwe,1523,Health centre,Public,Rural,TA Chadza,-14.26294,33.87378,50,52,63,70,411.1.4.1
+412,Mama Khadija Private Clinic Namwera,Mangochi,2543,Health centre,Private,Rural,TA Jalasi,-14.3708,35.49405,155,152,147,152,412.8.4.2
+413,Mangamba Health Centre,Machinga,2620,Health centre,Public,Rural,TA Liwonde,-14.79145,35.43652,921,919,928,940,413.23.4.1
+414,Mangochi District Hospital,Mangochi,2517,District hospital,Public,Semi-urban,TA Mponda,-14.48194,35.26472,8506,8432,8472,8664,414.8.7.1
+415,Mangulenje Health Centre,Chikwawa,3326,Health centre,Public,Rural,TA Makhwira,-16.10534,34.9157,563,559,560,255,415.5.4.1
+416,Magunda Health Centre,Thyolo,3112,Health centre,Public,Rural,TA Nanseta,-16.02886,35.26144,3316,3163,3225,3247,416.6.4.1
+417,Manjawira Maternity,Ntcheu,1817,Special / other site,Public,Rural,Senior TA Tsikulamowa,-15.00828,34.85964,344,357,336,355,417.13.12.1
+418,Manolo Health Centre,Mzimba North,724,Health centre,Public,Rural,TA Mpherembe,-11.28803,33.6146,205,141,211,143,418.20.4.1
+419,Manyamula Health Centre,Mzimba South,521,Health centre,Public,Rural,TA M'Mbelwa,-11.94,33.43945,590,609,610,611,419.19.4.1
+420,Mapanga Maternity,Thyolo,3125,Special / other site,Public,Semi-urban,Senior TA Mbawela,-16.27617,35.19695,950,964,875,847,420.6.12.1
+421,Maperera Health Centre,Chikwawa,3311,Health centre,Public,Rural,TA Makhwira,-16.10539,34.91558,999,1015,1051,1034,421.5.4.1
+422,Masasa Health Centre,Ntcheu,1832,Health centre,Public,Rural,TA Masasa,-14.43339,34.42244,331,331,321,353,422.13.4.1
+423,Mase Health Centre,Mangochi,2518,Health centre,Public,Rural,TA Chowe,-14.58056,35.36389,640,644,641,672,423.8.4.1
+424,Masenjere Health Centre,Nsanje,3405,Health centre,Public,Rural,TA Mlolo,-16.33731,35.09678,1473,1485,1532,1544,424.25.4.1
+425,Masm Area 12,Lilongwe,4025,Other hospital,Private,Urban,Area 12,-13.95655,33.8078,108,121,117,111,425.1.1.2
+426,Masm Medi Clinic Katoto,Mzimba North,578,Special / other site,Private,Semi-urban,TA Mtwalo,-11.47111,33.99535,225,230,222,238,426.20.12.2
+427,Masm Medi Clinic Lilongwe,Lilongwe,1564,Health centre,Private,Urban,Area 14,-13.96456,33.77802,287,299,310,315,427.1.4.2
+428,Masm Medi Clinic Limbe,Blantyre,2992,Special / other site,Private,Urban,TA Kapeni,-15.81223,35.05512,1324,1337,1324,1333,428.7.12.2
+429,Masm Medi Clinic Zomba,Zomba,2741,Health centre,Private,Urban,Masongola Ward,-15.37843,35.33148,130,134,151,154,429.2.4.2
+430,Matanda Health Centre,Ntcheu,1818,Dispensary,Public,Rural,TA Phambala,-15.10531,34.66808,304,311,314,320,430.13.3.1
+431,Matandani Health Centre,Neno,3706,Health centre,Public,Rural,TA Chekucheku,-15.33056,34.65306,391,403,412,419,431.26.4.1
+432,Matapila Health Centre,Lilongwe,1524,Health centre,Public,Rural,TA Mazengera,-14.01103,33.97522,417,414,414,425,432.1.4.1
+433,Matawale Health Centre,Zomba,2724,Health centre,Public,Urban,Chirunga Ward,-15.39044,35.35947,3672,3730,3762,3849,433.2.4.1
+434,Matiya Health Centre,Zomba,2712,Health centre,Public,Rural,TA Mwambo,-15.53397,35.54725,2481,2556,2643,2657,434.2.4.1
+435,Matope Health Centre,Neno,3707,Health centre,Public,Rural,TA Symon Likongwe,-15.35361,34.94695,883,886,893,907,435.26.4.1
+436,Matuli Health Centre,Mzimba North,712,Health centre,Public,Rural,TA Kampingo Sibande,-11.48513,33.89613,117,108,103,108,436.20.4.1
+437,Matumba Health Centre,Dedza,1717,Health centre,Public,Rural,TA Chilikumwendo,-14.37272,33.90606,282,283,285,290,437.12.4.1
+438,Maula Health Centre,Nkhata Bay,316,Health centre,Public,Rural,TA Fukamalaza,-11.735,34.235,554,470,557,607,438.31.4.1
+439,Maula Prison Health Centre Static Art,Lilongwe,1560,Health centre,Public,Urban,Area 6,-13.97036,33.76843,556,611,599,386,439.1.4.1
+440,Mauwa Health Centre,Chiradzulu,2803,Health centre,Public,Rural,TA Mchema,-15.65283,35.25014,2304,2309,2323,2308,440.3.4.1
+441,Mayaka Health Centre,Zomba,2713,Health centre,Public,Rural,TA Chikowi,-15.57314,35.37294,1905,1905,2134,2182,441.2.4.1
+442,Mayani Health Centre,Dedza,1718,Health centre,Public,Rural,TA Tambala,-14.09714,34.25294,841,819,852,872,442.12.4.1
+443,Maziko Private Clinic,Lilongwe,1595,Other hospital,Private,Urban,Area 23,-14.00507,33.81629,260,266,275,269,443.1.1.2
+444,Mazunga Private Clinic,Nkhotakota,NA,Dispensary,Private,Semi-urban,TA Kanyenda,-12.51001,34.11153,109,89,79,77,444.4.3.2
+445,Mbabvi Health Centre,Lilongwe,1525,Health centre,Public,Rural,TA Njewa,-13.92783,33.67092,438,465,483,483,445.1.4.1
+446,Mbalachanda Health Centre,Mzimba South,522,Health centre,Public,Rural,TA Chindi,-11.35761,33.37119,324,334,338,354,446.19.4.1
+447,Mbang'ombe 1 Health Centre,Lilongwe,1526,Health centre,Public,Rural,TA Kalolo,-14.16958,33.37925,192,173,161,164,447.1.4.1
+448,Mbang'ombe 2 Health Centre,Lilongwe,1527,Health centre,Public,Rural,Senior TA Mbang'ombe,-13.73694,33.71392,249,231,251,248,448.1.4.1
+449,Mbayani Health Centre,Blantyre,2921,Health centre,Public,Urban,Mbayani Ward,-15.76557,35.00462,1318,1290,1330,1359,449.7.4.1
+450,Mbenje Health Centre,Nsanje,3406,Health centre,Public,Rural,TA Ngabu,-16.99481,35.22086,1328,1323,1365,1425,450.25.4.1
+451,Mbera Health Centre,Balaka,3605,Health centre,Public,Rural,TA Mbera,-14.91064,35.0537,1658,1687,1693,1725,451.10.4.1
+452,Mbingwa Health Centre,Dowa,1312,Health centre,Public,Rural,TA Kayembe,-13.54417,33.51495,260,257,235,235,452.16.4.1
+453,Mbiza Health Centre,Mulanje,3207,Health centre,Public,Rural,TA Chikumbu,-16.09281,35.34628,2444,2435,2476,2571,453.15.4.1
+454,Mbonechela Dispensary,Machinga,2607,Health centre,Public,Rural,TA Liwonde,-14.88944,35.47825,NA,204,202,200,454.23.4.1
+455,Mbulumbuzi Health Centre,Chiradzulu,2814,Health centre,Public,Rural,TA Mpama,-15.63875,35.15686,2633,2628,2680,2732,455.3.4.1
+456,Mbwatalika Health Centre,Lilongwe,1528,Health centre,Public,Rural,TA Mbwatalika,-14.00372,33.55091,697,708,703,720,456.1.4.1
+457,Mcguire Wellness Center (child Legacy),Lilongwe,1554,Health centre,Public,Rural,TA Kalolo,-14.06837,33.472,277,300,284,284,457.1.4.1
+458,Mchima Clinic,Thyolo,3151,Health centre,Public,Rural,TA Nchilamwela,-16.11388,35.14018,400,408,423,413,458.6.4.1
+459,Mchinji District Hospital,Mchinji,1609,District hospital,Public,Semi-urban,Mchinji Boma,-13.8025,32.88722,4803,4771,4768,4815,459.28.7.1
+460,Mchoka Health Centre,Salima,1410,Health centre,Public,Rural,TA Ndindi,-13.92633,34.48986,844,854,862,911,460.22.4.1
+461,Mdeka Health Centre,Blantyre,2913,Health centre,Public,Rural,TA Chigaru,-15.46778,34.94272,1545,1560,1588,1596,461.7.4.1
+462,Mdf Secondary School Clinic,Blantyre,7964,Special / other site,Public,Semi-urban,TA Machinjiri,-15.70176,35.01322,NA,NA,14,24,462.7.12.1
+463,Mdunga Health Centre,Kasungu,1028,Health centre,Public,Rural,Senior TA Mdunga,-12.99043,33.85182,147,140,132,137,463.17.4.1
+464,Mehboob Clinic,Mangochi,2586,Health centre,Private,Rural,TA Mponda,-14.46021,35.24023,NA,1654,489,1500,464.8.4.2
+465,Merit Private Clinic,Blantyre,2967,Special / other site,Private,Urban,TA Kapeni,-15.7793,35.04387,57,58,58,52,465.7.12.2
+466,Mfera Health Centre,Chikwawa,3320,Health centre,Public,Rural,TA Katunga,-16.0655,34.86707,807,808,794,807,466.5.4.1
+467,Mganja Health Centre,Dedza,1730,Health centre,Public,Rural,TA Kachindamoto,-14.42048,34.52305,178,185,189,203,467.12.4.1
+468,Mhalaunda Health Centre,Mzimba South,523,Health centre,Public,Rural,TA M'Mbelwa,-12.05111,33.46686,154,158,151,152,468.19.4.1
+469,Mhuju Rural Hospital,Rumphi,411,Rural / community hospital,Public,Rural,TA Mwahenga,-10.86667,33.9975,658,616,622,618,469.14.5.1
+470,Mianga Health Centre,Thyolo,3141,Health centre,Private,Rural,TA Kwethemule,-16.09883,35.07553,875,912,949,877,470.6.4.2
+471,Midzemba Health Centre,Neno,3708,Health centre,Public,Rural,TA Symon Likongwe,-15.3495,34.83995,410,419,424,427,471.26.4.1
+472,Migowi Health Centre,Phalombe,3506,Health centre,Public,Rural,TA Kaduya,-15.71944,35.68544,3757,3955,3960,4001,472.29.4.1
+473,Mikolongwe Health Centre,Thyolo,3114,Health centre,Public,Rural,TA Chimaliro,-15.9015,35.18375,2498,2375,2393,2328,473.6.4.1
+474,Mikondo Dispensary,Dedza,1719,Dispensary,Public,Rural,TA Kachere,-14.44767,33.93951,265,265,245,247,474.12.3.1
+475,Mikundi Health Centre,Mchinji,1610,Health centre,Public,Rural,TA Mduwa,-13.70778,33.13805,670,669,646,640,475.28.4.1
+476,Milepa Health Centre,Chiradzulu,2804,Health centre,Public,Rural,TA Mchema,-15.68706,35.31881,3939,3959,3946,3945,476.3.4.1
+477,Milonde Health Centre,Mulanje,3208,Health centre,Public,Rural,TA Mabuka,-16.10222,35.47833,2283,2395,2384,2384,477.15.4.1
+478,Mimosa Dispensary,Mulanje,3209,Dispensary,Public,Rural,Senior TA Sunganinzeru,-16.08556,35.61222,2096,2100,2074,2094,478.15.3.1
+479,Ming'ongo Health Centre,Lilongwe,1529,Health centre,Public,Urban,TA Kalolo,-14.07503,33.44833,201,204,204,188,479.1.4.1
+480,Minimini Dispensary,Mulanje,NA,Dispensary,Public,Rural,TA Mabuka,-16.05676,35.58444,347,357,359,363,480.15.3.1
+481,Misomali Health Centre,Chikwawa,3312,Health centre,Public,Rural,TA Chapananga,-16.00547,34.48569,315,319,324,323,481.5.4.1
+482,Misuku Health Centre,Chitipa,107,Health centre,Public,Rural,TA Mwenemisuku,-9.679667,33.52075,165,182,183,180,482.24.4.1
+483,Mitengo Health Centre St Joseph,Thyolo,3117,Health centre,Public,Rural,TA Kapichi,-16.11089,35.24564,931,980,970,1000,483.6.4.1
+484,Mitundu Community Hospital,Lilongwe,1530,Rural / community hospital,Public,Rural,TA Chiseka,-14.24825,33.77444,2509,2492,2544,2561,484.1.5.1
+485,Mkanda Health Centre,Mchinji,1611,Health centre,Public,Semi-urban,TA Mkanda,-13.51444,32.96083,1993,2032,2085,2260,485.28.4.1
+486,Mkhota Rural Growth Health Centre,Kasungu,1010,Health centre,Public,Rural,TA Santhe,-13.56675,33.34358,158,149,158,163,486.17.4.1
+487,Mkhuzi Health Centre,Ntchisi,1207,Health centre,Public,Rural,TA Kalumo,-13.36644,33.77672,154,153,148,142,487.27.4.1
+488,Mkoma Health Centre,Mzimba South,524,Health centre,Public,Rural,TA Khosolo Gwaza Jere,-12.61236,33.78253,231,241,238,247,488.19.4.1
+489,Mkomaula Health Centre,Mulanje,3223,Health centre,Public,Rural,TA Juma,-15.7211,35.36672,453,470,478,482,489.15.4.1
+490,Mkumaniza Health Centre,Chikwawa,3313,Health centre,Public,Rural,TA Ngabu,-16.00547,34.48569,908,861,746,784,490.5.4.1
+491,Mkumba Health Centre,Mangochi,2519,Health centre,Public,Rural,TA Mbwana Nyambi,-14.59444,35.52528,843,845,883,883,491.8.4.1
+492,Mkwepere Health Centre,Machinga,2618,Dispensary,Public,Rural,TA Nyambi,-14.60286,35.63635,636,637,645,659,492.23.3.1
+493,Mlale Mission Hospital,Lilongwe,1531,Rural / community hospital,Public,Rural,TA Chiseka,-14.23028,33.75644,1085,1080,1101,1110,493.1.5.1
+494,Mlambe Mission Hospital,Blantyre,2915,District hospital,Public,Rural,TA Kapeni,-15.64478,35.01725,6592,6658,6690,6727,494.7.7.1
+495,Mlanda Health Centre,Ntcheu,1819,Health centre,Public,Rural,TA Masasa,-14.47875,34.45964,322,334,334,345,495.13.4.1
+496,Mlangeni Health Centre,Ntcheu,1820,Health centre,Public,Rural,TA Njolomole,-14.67653,34.5368,377,367,360,388,496.13.4.1
+497,Mlomba Health Centre,Machinga,2619,Health centre,Public,Rural,TA Mlomba,-15.01903,35.47708,670,761,710,745,497.23.4.1
+498,Mlowe Health Centre,Rumphi,412,Health centre,Public,Rural,TA Mwamlowe,-10.76431,34.19489,243,252,265,268,498.14.4.1
+499,Mmambo Health Centre,Zomba,2731,Health centre,Public,Rural,TA Mlumbe,-15.25997,35.15946,552,547,551,557,499.2.4.1
+500,Mndinda Health Centre,Ntchisi,1212,Health centre,Public,Rural,TA Nthondo,-13.2474,34.05675,NA,0,12,16,500.27.4.1
+501,Mnyanja Health Centre,Kasungu,1030,Health centre,Public,Rural,Senior TA M'nyanja,-13.03294,33.67125,304,314,378,379,501.17.4.1
+502,Monkeybay Community Hospital,Mangochi,2520,Rural / community hospital,Public,Rural,Monkey Bay Urban,-14.085,34.91083,2727,2660,2660,2704,502.8.5.1
+503,Moyale Barracks Health Centre,Mzimba North,585,Special / other site,Public,Urban,TA Mtwalo,-11.45967,34.03844,681,719,672,629,503.20.12.1
+504,Moyo Private Clinic,Blantyre,2969,Special / other site,Private,Urban,TA Kapeni,-14.99987,35.49031,66,75,74,68,504.7.12.2
+505,Mpala Health Centre,Mulanje,3210,Health centre,Public,Rural,TA Mabuka,-16.14389,35.52472,2583,2402,2591,2673,505.15.4.1
+506,Mpamantha Health Centre,Nkhotakota,1107,Health centre,Public,Rural,TA Malenga Chanzi,-13.06931,34.25222,210,224,211,208,506.4.4.1
+507,Mpamba Health Centre,Nkhata Bay,313,Health centre,Public,Rural,TA Timbiri,-11.54667,34.19722,614,542,579,573,507.31.4.1
+508,Mpasa Health Centre,Phalombe,3508,Health centre,Public,Rural,TA Mkhumba,-15.75783,35.61139,1751,1766,1800,1811,508.29.4.1
+509,Mpata Health Centre,Karonga,209,Health centre,Public,Rural,TA Kyungu,-9.960556,33.815,187,192,191,206,509.9.4.1
+510,Mpemba Health Centre,Blantyre,2916,Health centre,Public,Rural,TA Somba,-15.87492,34.95653,1810,1817,1910,1923,510.7.4.1
+511,Mpepa Health Centre,Kasungu,1065,Health centre,Public,Rural,Senior TA Chisinga,-12.62111,33.32722,319,323,337,350,511.17.4.1
+512,Mphathi Health Centre,Dedza,1721,Health centre,Public,Rural,TA Kachere,-14.45547,34.07678,315,315,281,298,512.12.4.1
+513,Mphepozinayi Dispensary,Ntcheu,1822,Dispensary,Public,Rural,TA Njolomole,-14.73583,34.66083,764,791,782,763,513.13.3.1
+514,Mpherembe Health Centre,Mzimba North,713,Health centre,Public,Rural,TA Mpherembe,-11.28819,33.61464,795,765,813,955,514.20.4.1
+515,Mphompha Health Centre,Rumphi,413,Health centre,Public,Rural,TA Mwankhunikira,-11.00606,34.07294,204,197,201,218,515.14.4.1
+516,Mphunzi Health Centre,Dedza,1722,Health centre,Public,Rural,TA Kachere,-14.37822,34.17522,303,305,330,325,516.12.4.1
+517,Mpingo Maternity,Blantyre,2996,Health centre,Public,Rural,TA Kapeni,-15.88178,34.91345,105,108,104,119,517.7.4.1
+518,Mpiri Health Centre,Machinga,2608,Health centre,Public,Rural,TA Nkoola,-14.77253,35.60706,698,1064,976,934,518.23.4.1
+519,Mpondasi Health Centre,Mangochi,2521,Health centre,Public,Rural,TA Mponda,-14.45333,35.24417,1267,1283,1322,1378,519.8.4.1
+520,Mponela Rural Hospital,Dowa,1313,Rural / community hospital,Public,Semi-urban,Mponela Urban,-13.53253,33.73761,2208,2239,2293,2352,520.16.5.1
+521,Mposa Health Centre,Machinga,2609,Health centre,Public,Rural,TA Mposa,-15.14917,35.51833,828,833,857,866,521.23.4.1
+522,Msakambewa Health Centre,Dowa,1314,Health centre,Public,Rural,TA Msakambewa,-13.55297,33.89711,125,123,124,120,522.16.4.1
+523,Nsambe Health Centre,Neno,3711,Health centre,Public,Rural,TA Dambe,-15.26167,34.61361,472,493,488,489,523.26.4.1
+524,Msenjere Health Centre,Nkhotakota,1117,Health centre,Public,Rural,TA Kanyenda,-12.73261,34.17064,555,491,523,564,524.4.4.1
+525,Msese Health Centre,Mzimba South,525,Health centre,Public,Rural,TA Khosolo Gwaza Jere,-12.35947,33.73994,74,77,74,70,525.19.4.1
+526,Msumbe Health Centre,Chitipa,110,Health centre,Public,Rural,Senior TA Lwangwa,-9.75123,33.67563,NA,10,11,13,526.24.4.1
+527,Mtakataka Health Centre,Dedza,1727,Health centre,Public,Rural,TA Kachindamoto,-14.2275,34.51495,645,654,700,679,527.12.4.1
+528,Mtende Health Centre,Mzimba South,526,Health centre,Public,Rural,TA Chindi,-11.49736,33.54881,173,175,187,186,528.19.4.1
+529,Mtendere Health Centre,Dedza,1723,Health centre,Public,Rural,TA Kachere,-14.313,34.083,1834,1882,1855,1852,529.12.4.1
+530,Mtengoumodzi Private Hospital,Blantyre,2929,Other hospital,Private,Urban,TA Kapeni,-15.7245,35.01637,1078,1045,866,925,530.7.1.2
+531,Mtengowanthenga Community Hospital,Dowa,1315,District hospital,Public,Rural,TA Mkukula,-13.67128,33.77133,1536,1535,1547,1471,531.16.7.1
+532,Mtengowanthenga Dream Project,Dowa,1335,Special / other site,Public,Rural,TA Mkukula,-13.67099,33.77613,1591,1538,1547,1543,532.16.12.1
+533,Mtenthela Health Centre,Lilongwe,1532,Health centre,Public,Rural,TA Kalumbu,-14.10853,34.0055,865,892,864,919,533.1.4.1
+534,Mtimabi Health Centre,Mangochi,2537,Health centre,Public,Rural,TA Chimwala,-14.60824,35.08266,809,800,794,844,534.8.4.1
+535,Mtonda Health Centre,Ntcheu,1823,Health centre,Public,Rural,TA Phambala,-15.01992,34.75303,677,699,722,733,535.13.4.1
+536,Mtosa Health Centre,Nkhotakota,1108,Health centre,Public,Rural,TA Mwadzama,-13.43864,34.27383,147,147,151,159,536.4.4.1
+537,Mtunthama Health Centre,Kasungu,1011,Health centre,Public,Rural,TA Wimbe,-13.03158,33.68245,305,331,331,359,537.17.4.1
+538,Mtwalo Health Centre,Mzimba North,714,Health centre,Public,Rural,TA Mtwalo,-11.39675,33.74594,414,417,286,296,538.20.4.1
+539,Mua Mission Hospital,Dedza,1731,District hospital,Public,Rural,TA Kachindamoto,-14.28278,34.50933,1284,1276,1287,1283,539.12.7.1
+540,Mulanje District Hospital,Mulanje,3211,District hospital,Public,Semi-urban,TA Mabuka,-16.02555,35.5075,8666,8541,8685,8689,540.15.7.1
+541,Mulanje Mission Hospital,Mulanje,3212,District hospital,Public,Rural,TA Chikumbu,-16.02086,35.4642,6725,6726,6725,6702,541.15.7.1
+542,Mulibwanji Hospital,Mangochi,2531,Rural / community hospital,Public,Rural,TA Mbwana Nyambi,-14.512,35.588,1302,1291,1306,1320,542.8.5.1
+543,Mulomba Health Centre,Mulanje,3213,Health centre,Public,Rural,TA Nkanda,-15.76535,35.51182,1597,1583,1594,1605,543.15.4.1
+544,Muloza Health Centre,Mulanje,3214,Health centre,Public,Rural,TA Laston Njema,-16.06222,35.76194,2652,2721,2673,2790,544.15.4.1
+545,Mulungu Alinafe Clinic,Phalombe,3515,Health centre,Public,Rural,TA Nkhulambe,-15.85719,35.81556,535,579,363,755,545.29.4.1
+546,Mumbwe Medical Centre,Mzimba North,565,Special / other site,Private,Urban,TA Mtwalo,-11.46175,34.02772,NA,205,209,221,546.20.12.2
+547,Mvera Army Camp,Dowa,1316,Special / other site,Public,Rural,TA Chiwere,-13.77958,34.13983,487,485,481,492,547.16.12.1
+548,Mvera Mission Hospital,Dowa,1317,Health centre,Public,Rural,TA Chiwere,-13.73686,34.12839,432,435,403,447,548.16.4.1
+549,Mwachira Private Clinic,Blantyre,2971,Special / other site,Private,Semi-urban,TA Kapeni,-15.65548,35.02158,305,317,298,292,549.7.12.2
+550,Mwaiwathu Private Hospital,Blantyre,2931,Other hospital,Private,Urban,TA Machinjiri,-15.78547,35.01691,610,637,975,842,550.7.1.2
+551,Mwandama Health Centre,Zomba,2738,Health centre,Public,Rural,TA Mlumbe,-15.49803,35.18803,468,459,484,489,551.2.4.1
+552,Mwanga Health Centre,Phalombe,3509,Health centre,Public,Rural,TA Jenala,-15.64611,35.53194,1089,1114,1134,1084,552.29.4.1
+553,Mwangala Health Centre,Dowa,1318,Health centre,Public,Rural,TA Msakambewa,-13.48733,33.92339,110,136,134,128,553.16.4.1
+554,Mwansambo Health Centre,Nkhotakota,1109,Health centre,Public,Rural,TA Mwansambo,-13.50311,34.13028,321,344,334,347,554.4.4.1
+555,Mwanza Clinic Area 3,Chikwawa,3362,Health centre,Public,Rural,TA Lundu,-16.22357,34.68896,195,195,197,207,555.5.4.1
+556,Mwanza District Hospital,Mwanza,3008,District hospital,Public,Semi-urban,Mwanza Boma,-15.59761,34.50911,4718,4735,4782,4848,556.32.7.1
+557,Mwazisi Health Centre,Rumphi,414,Health centre,Public,Rural,TA Chikulamayembe,-10.94389,33.57889,446,423,420,449,557.14.4.1
+558,Mzalangwe Health Centre,Mzimba South,527,Health centre,Public,Rural,TA Chindi,-11.61231,33.56522,282,288,273,309,558.19.4.1
+559,Mzambazi Community Hospital,Mzimba North,528,Rural / community hospital,Public,Rural,TA Chindi,-11.42764,33.45031,368,377,389,408,559.20.5.1
+560,Mzandu Health Centre,Ntchisi,1209,Health centre,Public,Rural,TA Chikho,-13.48908,34.02767,135,130,130,143,560.27.4.1
+561,Mzenga Health Centre,Nkhata Bay,314,Health centre,Public,Rural,TA Kabunduli,-11.73236,34.0773,290,303,333,331,561.31.4.1
+562,Mzimba District Hospital,Mzimba South,501,District hospital,Public,Semi-urban,TA M'Mbelwa,-11.89808,33.58428,4781,4807,4818,4942,562.19.7.1
+563,Mziza Health Centre,Kasungu,1019,Health centre,Public,Rural,TA Njombwa,-13.27933,33.50431,157,165,158,170,563.17.4.1
+564,Mzokoto Health Centre,Rumphi,415,Health centre,Public,Rural,TA Mwankhunikira,-10.90778,34.02714,349,351,327,360,564.14.4.1
+565,Mzuzu Central Hospital,Mzimba North,538,Central hospital,Public,Urban,TA Mtwalo,-11.42786,33.9955,5400,5436,5402,5438,565.20.8.1
+566,Mzuzu Central Prison,Mzimba North,2730,Special / other site,Public,Urban,TA Mtwalo,-11.46474,34.01991,178,186,179,181,566.20.12.1
+567,Mzuzu Health Centre,Mzimba North,701,Health centre,Public,Urban,Mzuzu City,-11.46139,34.015,3842,3798,3877,3935,567.20.4.1
+568,Mzuzu University Clinic,Mzimba North,789,Special / other site,Public,Urban,TA Mtwalo,-11.42175,33.99564,378,366,381,356,568.20.12.1
+569,Naisi Health Centre,Zomba,2732,Health centre,Public,Rural,TA Malemia,-15.3552,35.38504,1169,1081,1125,1154,569.2.4.1
+570,Nakalanzi Health Centre,Dedza,1732,Health centre,Public,Rural,TA Kachindamoto,-14.20261,34.54892,293,291,302,268,570.12.4.1
+571,Nalunga Mafika Health Centre,Dowa,1319,Health centre,Public,Rural,TA Chiwere,-13.64378,34.0567,94,94,98,87,571.16.4.1
+572,Namadidi Health Centre,Zomba,2736,Health centre,Public,Urban,TA Mlumbe,-15.41079,35.24736,352,347,359,373,572.2.4.1
+573,Namadzi Health Centre,Chiradzulu,2805,Health centre,Public,Rural,TA Mchema,-15.54669,35.18767,2910,2901,2934,2923,573.3.4.1
+574,Namalaka Health Centre,Mangochi,2522,Health centre,Public,Rural,TA Namabvi,-14.12361,35.19305,876,898,905,933,574.8.4.1
+575,Namandanje Health Centre,Machinga,2610,Health centre,Public,Rural,TA Liwonde,-14.88214,35.48328,1051,1057,1070,1158,575.23.4.1
+576,Namanja Health Centre,Machinga,2611,Health centre,Public,Rural,Senior TA Nchinguza,-14.96444,35.67944,1246,1253,1264,1291,576.23.4.1
+577,Namanolo Health Centre,Balaka,3611,Health centre,Public,Rural,TA Amidu,-15.00067,35.19005,783,822,809,822,577.10.4.1
+578,Namasalima Health Centre Mulanje,Mulanje,3215,Health centre,Public,Rural,TA Laston Njema,-16.08028,35.71556,4254,4355,4381,4438,578.15.4.1
+579,Namasalima Health Centre Zomba,Zomba,2714,Health centre,Public,Rural,TA Kuntumanji,-15.23133,35.48883,1338,1263,1438,1444,579.2.4.1
+580,Nambazo Health Centre,Phalombe,3510,Health centre,Public,Rural,TA Chiwalo,-15.55669,35.81922,4567,4610,4655,4678,580.29.4.1
+581,Nambuma Health Centre,Lilongwe,1533,Health centre,Public,Rural,TA Kabudula,-13.72611,33.558,247,270,278,287,581.1.4.1
+582,Namdumbo Health Centre,Balaka,3615,Health centre,Public,Rural,TA Kalembo,-14.85169,35.22552,949,1021,1050,1066,582.10.4.1
+583,Namikango Health Centre,Zomba,2715,Health centre,Public,Rural,TA Mlumbe,-15.47731,35.2407,882,895,898,901,583.2.4.1
+584,Namikoko Health Centre,Blantyre,2917,Dispensary,Public,Rural,TA Lundu,-15.48681,35.07375,483,463,466,488,584.7.3.1
+585,Namitambo Health Centre,Chiradzulu,2806,Health centre,Public,Rural,Senior TA Mpunga,-15.84119,35.27036,5308,5307,5334,5317,585.3.4.1
+586,Namizana Health Centre,Mchinji,1615,Health centre,Public,Rural,TA Mavwere,-14.00195,33.2463,2,16,30,49,586.28.4.1
+587,Namphungo Health Centre,Mulanje,3216,Health centre,Public,Rural,TA Juma,-15.80417,35.34889,951,1046,1157,1231,587.15.4.1
+588,Namulenga Health Centre,Mulanje,3217,Health centre,Public,Rural,TA Juma,-15.86542,35.32747,1148,1187,1155,1142,588.15.4.1
+589,Namwera Health Centre,Mangochi,2523,Health centre,Public,Rural,TA Jalasi,-14.36389,35.50222,1423,1342,1346,1429,589.8.4.1
+590,Nancholi Dispensary,Mangochi,2524,Dispensary,Public,Rural,TA Mbwana Nyambi,-14.47833,35.58667,336,328,344,340,590.8.3.1
+591,Nancholi Youth Organisation Clinic,Blantyre,5127,Special / other site,Public,Urban,TA Somba,-15.82164,35.01167,308,315,NA,326,591.7.12.1
+592,Nangalamu Health Centre,Mangochi,2525,Health centre,Public,Rural,TA Mbwana Nyambi,-14.46806,35.67305,545,574,562,611,592.8.4.1
+593,Nankhwali Health Centre,Mangochi,2526,Health centre,Public,Rural,TA Nankumba,-14.135,34.84472,385,383,387,397,593.8.4.1
+594,Nankumba Health Centre,Mangochi,2527,Health centre,Public,Rural,TA Nankumba,-14.36528,34.82361,1070,1055,1097,1139,594.8.4.1
+595,Naphimba Health Centre,Mulanje,3222,Health centre,Public,Rural,TA Laston Njema,-16.03363,35.67862,1462,1472,1486,1519,595.15.4.1
+596,Nasawa Health Centre,Zomba,2725,Health centre,Public,Rural,TA Mbiza,-15.60231,35.25956,1149,1188,1234,1179,596.2.4.1
+597,Nathenje Health Centre,Lilongwe,1534,Health centre,Public,Rural,TA Chadza,-14.08189,33.90778,1649,1656,1672,1710,597.1.4.1
+598,Nayinunje Health Centre,Machinga,2612,Health centre,Public,Rural,TA Kapoloma,-14.74047,35.56517,1035,1041,1062,1076,598.23.4.1
+599,Nayuchi Health Centre,Machinga,2613,Health centre,Public,Rural,TA Mchinguza,-14.97556,35.53417,1363,1445,1491,1552,599.23.4.1
+600,Nazombe Health Centre (gogo Nazombe),Phalombe,3514,Health centre,Public,Rural,TA Nazombe,-15.75233,35.77498,1770,1714,1688,1568,600.29.4.1
+601,Ndakwera Health Centre,Chikwawa,3314,Health centre,Public,Rural,Senior TA Ndakwela,-16.22361,34.68886,748,748,768,802,601.5.4.1
+602,Ndamera Health Centre,Nsanje,3408,Health centre,Public,Rural,TA Ndamera,-17.09575,35.21894,1949,2006,2075,2108,602.25.4.1
+603,Ndaula Health Centre,Lilongwe,1535,Health centre,Public,Rural,TA Masumbankhunda,-14.13844,33.50761,242,266,276,276,603.1.4.1
+604,Ndirande Health Centre,Blantyre,2918,Health centre,Public,Urban,Ndirande Matope Ward,-15.77833,35.03975,6194,6224,6254,6374,604.7.4.1
+605,Ndunde Health Centre,Chiradzulu,2807,Health centre,Public,Rural,TA Kadewere,-15.69636,35.23344,2350,2289,2390,2347,605.3.4.1
+606,Neno District Hospital,Neno,3709,Rural / community hospital,Public,Semi-urban,TA Chekucheku,-15.395,34.65361,1607,1692,1708,1602,606.26.5.1
+607,Neno Parish Health Centre,Neno,3710,Health centre,Public,Rural,TA Dambe,-15.43708,34.60828,254,260,269,268,607.26.4.1
+608,New State House Dispensary,Lilongwe,4058,Dispensary,Public,Urban,TA Tsabango,-13.96031,33.85086,75,77,80,78,608.1.3.1
+609,Ngabu Rural Hospital,Chikwawa,3315,Rural / community hospital,Public,Rural,TA Ngabu,-16.45947,34.89247,4162,4185,4277,4300,609.5.5.1
+610,Ngabu Sda Health Centre,Chikwawa,3328,Health centre,Public,Rural,Ngabu Urban,-16.46264,34.87903,1449,1456,1487,1512,610.5.4.1
+611,Ngala Health Centre,Nkhotakota,1110,Health centre,Public,Rural,TA Kanyenda,-12.36517,34.06553,631,729,600,636,611.4.4.1
+612,Ngana Health Centre,Karonga,210,Health centre,Public,Rural,TA Mwakaboko,-9.62,33.69917,113,119,122,118,612.9.4.1
+613,Ngapani Health Centre,Mangochi,2540,Health centre,Public,Rural,TA Katuli,-14.0296,35.33773,424,452,464,477,613.8.4.1
+614,Ngodzi Health Centre,Salima,1414,Health centre,Public,Semi-urban,TA Kambalame,-14.08997,34.51139,286,278,284,303,614.22.4.1
+615,Ngokwe Health Centre,Machinga,2614,Health centre,Public,Rural,TA Ngokwe,-14.70683,35.80175,1161,1166,1161,1212,615.23.4.1
+616,Ng'onga Health Centre,Rumphi,424,Health centre,Public,Rural,Senior TA Chisovya,-10.93649,33.94343,197,170,174,179,616.14.4.1
+617,Ngoni Health Centre,Lilongwe,1537,Health centre,Public,Rural,TA Mtema,-13.77492,33.64022,308,306,310,334,617.1.4.1
+618,Ngwelero Health Centre,Zomba,2716,Health centre,Public,Rural,Senior TA Ngwelero,-15.66714,35.42794,1418,1438,1508,1491,618.2.4.1
+619,Njuyu Health Centre,Mzimba North,715,Health centre,Public,Rural,TA Kampingo Sibande,-11.45728,33.6338,147,141,145,160,619.20.4.1
+620,Nkalo Health Centre,Chiradzulu,2809,Health centre,Public,Rural,TA Nkalo,-15.97067,35.31022,3291,3248,3277,3258,620.3.4.1
+621,Nkasala Health Centre,Zomba,2717,Health centre,Public,Rural,Senior TA Nkapita,-15.32789,35.21703,772,804,825,804,621.2.4.1
+622,Nkhalango Clinic,Lilongwe,1593,Special / other site,Private,Urban,TA Malili,-14.01291,33.70483,158,168,108,137,622.1.12.2
+623,Nkhamenya Community Hospital,Kasungu,1013,District hospital,Public,Rural,TA Kaluluma,-12.56603,33.50136,873,873,854,876,623.17.7.1
+624,Nkhatabay District Hospital,Nkhata Bay,315,District hospital,Public,Semi-urban,TA Mkumbira,-11.60139,34.29833,3176,3158,3195,3231,624.31.7.1
+625,Nkhatabay Private Clinic,Nkhata Bay,327,Special / other site,Private,Urban,TA Mkumbira,-11.6066,34.29549,68,76,72,83,625.31.12.2
+626,Nkhoma Mission Hospital,Lilongwe,1538,District hospital,Public,Rural,TA Mazengera,-14.04406,34.10308,2196,2205,2212,2245,626.1.7.1
+627,Nkhorongo Health Centre,Mzimba North,716,Health centre,Public,Rural,TA Mtwalo,-11.39011,33.98492,430,410,425,435,627.20.4.1
+628,Nkhotakota District Hospital,Nkhotakota,1111,District hospital,Public,Semi-urban,TA Malenga Chanzi,-12.92894,34.29239,2631,2633,2619,2657,628.4.7.1
+629,Nkhulambe Health Centre,Phalombe,3511,Health centre,Public,Rural,TA Nkhulambe,-15.85811,35.75136,3533,3555,3588,3625,629.29.4.1
+630,Nkhunga Health Centre,Nkhotakota,1112,Health centre,Public,Rural,TA Kanyenda,-12.48017,34.10822,969,1087,1066,1007,630.4.4.1
+631,Mkhwayi Health Centre,Phalombe,3507,Health centre,Public,Rural,TA Jenala,-15.61444,35.62778,1760,1806,1847,1712,631.29.4.1
+632,Nkhwazi Health Centre,Mchinji,1612,Health centre,Public,Rural,TA Mavwere,-13.92333,33.23,1306,1252,1353,1360,632.28.4.1
+633,Nkombedzi Health Centre,Chikwawa,3364,Health Centre,Public,Rural,NA,-16.47944,34.72431,382,356,184,112,633.5.4.1
+634,Nkope Health Centre,Mangochi,2528,Health centre,Public,Rural,TA Nankumba,-14.19708,35.03947,1131,1136,1160,1180,634.8.4.1
+635,Nkula Health Centre,Neno,3712,Health centre,Public,Rural,TA Symon Likongwe,-15.52222,34.82528,284,285,292,288,635.26.4.1
+636,Nsanama Health Centre,Machinga,2615,Health centre,Public,Rural,TA Mlomba,-14.99486,35.49478,1904,1944,1994,2076,636.23.4.1
+637,Nsanje District Hospital,Nsanje,3409,District hospital,Public,Semi-urban,TA Malemia,-16.91769,35.25989,5029,5092,5208,5290,637.25.7.1
+638,Nsalu Health Centre,Lilongwe,1539,Health Centre,Public,Rural,NA,-13.8855,33.5043,452,458,457,469,638.1.4.1
+639,Nsipe Health Centre,Ntcheu,1825,Health centre,Public,Rural,TA Kwataine,-14.86422,34.75167,1122,1162,1059,1144,639.13.4.1
+640,Nsiyaludzu Health Centre,Ntcheu,1826,Health centre,Public,Rural,TA Makwangwala,-14.93672,34.87422,1319,1160,1129,1218,640.13.4.1
+641,Ntaja Health Centre,Machinga,2616,Health centre,Public,Rural,TA Kawinga,-14.86814,35.5295,3397,3382,3450,3542,641.23.4.1
+642,Ntcheu District Hospital,Ntcheu,1827,District hospital,Public,Semi-urban,Ntcheu Boma,-14.81689,34.63831,5642,5613,5627,5662,642.13.7.1
+643,Ntchisi District Hospital,Ntchisi,1210,District hospital,Public,Semi-urban,TA Kalumo,-13.36333,33.91103,2078,2096,2100,2073,643.27.7.1
+644,Nthalire Health Centre,Chitipa,108,Health centre,Public,Rural,TA Nthalire,-10.34906,33.64375,570,562,556,562,644.24.4.1
+645,Nthenje Dispensary,Rumphi,416,Dispensary,Public,Rural,TA Mwankhunikira,-10.91789,33.98803,127,129,129,135,645.14.3.1
+646,Nthorowa Health Centre,Machinga,2621,Health centre,Public,Rural,TA Mlomba,-14.99492,35.57325,834,881,870,864,646.23.4.1
+647,Nthondo Health Centre,Ntchisi,1211,Health centre,Public,Rural,TA Nthondo,-13.24714,34.02322,219,213,215,211,647.27.4.1
+648,Nthondo Health Centre Lilongwe,Lilongwe,1540,Health centre,Public,Urban,TA Kalolo,-14.02869,33.44989,792,811,838,857,648.1.4.1
+649,Nthungwa Health Centre,Nkhata Bay,320,Health centre,Public,Rural,TA Kabunduli,-11.66,33.80056,152,156,155,157,649.31.4.1
+650,Nyambadwe Private Hospital,Blantyre,2974,Other hospital,Private,Urban,TA Kapeni,-15.77139,35.02323,NA,NA,92,92,650.7.1.2
+651,Nyambi Health Centre,Machinga,2617,Health centre,Public,Rural,TA Nyambi,-14.68994,35.5725,1183,1170,1222,1256,651.23.4.1
+652,Nyamithuthu Health Centre,Nsanje,3410,Health centre,Public,Rural,TA Tengani,-16.68239,35.19835,517,536,547,553,652.25.4.1
+653,Nyungwe Health Centre,Karonga,211,Health centre,Public,Rural,TA Mwirang'ombe,-10.285,34.10833,1336,1396,1366,1313,653.9.4.1
+654,Nzama Health Centre,Ntcheu,1828,Health centre,Public,Rural,TA Mpando,-14.89353,34.58592,587,603,612,620,654.13.4.1
+655,Ofesi Dispensary,Kasungu,1022,Health centre,Public,Rural,Senior TA M'nyanja,-12.7795,33.54881,227,229,231,239,655.17.4.1
+656,Pace Clinic,Blantyre,NA,Special / other site,Private,Urban,TA Kapeni,-15.79762,35.02311,268,214,211,204,656.7.12.2
+657,Parachute Battalion Clinic,Salima,1425,Dispensary,Public,Rural,TA Maganga,-14.08898,34.54478,71,86,101,105,657.22.3.1
+658,Partners In Hope Clinic Dalitso (private),Lilongwe,4089,Special / other site,Private,Urban,TA Tsabango,-14.02365,33.78791,1945,1920,1922,1866,658.1.12.2
+659,Partners In Hope Clinic,Lilongwe,1555,Special / other site,Public,Urban,TA Tsabango,-14.02365,33.78791,5396,5402,5417,5411,659.1.12.1
+660,Pensulo Health Centre,Blantyre,2928,Health centre,Public,Urban,TA Kuntaja,-15.80788,34.95697,NA,242,262,273,660.7.4.1
+661,Phalombe Health Centre,Phalombe,3512,Health centre,Public,Rural,Phalombe Boma,-15.80617,35.6488,2847,2871,2889,2808,661.29.4.1
+662,Phalombe Mission Hospital Holy Family,Phalombe,3504,District hospital,Public,Semi-urban,TA Mkhumba,-15.82469,35.61872,3719,3749,3784,3721,662.29.7.1
+663,Phalula Health Centre,Balaka,3606,Health centre,Public,Rural,Senior TA Phalula,-15.22547,34.89331,1656,1632,1516,1583,663.10.4.1
+664,Phimbi Health Centre,Balaka,3607,Health centre,Public,Rural,TA Nkaya,-15.25092,35.10711,806,873,807,814,664.10.4.1
+665,Phirilongwe Health Centre,Mangochi,2529,Health centre,Public,Rural,Senior TA Ntonda,-14.58831,34.89847,525,498,515,532,665.8.4.1
+666,Phokera Health Centre,Nsanje,3417,Health centre,Public,Rural,TA Mbenje,-16.62758,35.16583,837,852,860,895,666.25.4.1
+667,Pim Health Centre,Chiradzulu,2810,Health centre,Public,Rural,Senior TA Onga,-15.75309,35.1923,211,220,236,248,667.3.4.1
+668,Pirimiti Health Centre,Zomba,2718,Health centre,Public,Rural,TA Mwambo,-15.48281,35.451,4537,4557,4592,4579,668.2.4.1
+669,Police College Health Centre Mua,Dedza,1735,Health centre,Public,Rural,TA Kachindamoto,-14.22589,34.51142,92,99,95,100,669.12.4.1
+670,Police College Hospital Zomba,Zomba,2728,Rural / community hospital,Public,Urban,Zomba Central Ward,-15.39083,35.32706,NA,1302,1352,1334,670.2.5.1
+671,Polytechnic Blantyre,Blantyre,2990,Special / other site,Public,Urban,Soche East Ward,-15.80207,35.02718,90,92,90,93,671.7.12.1
+672,Queen Elizabeth Central Hospital,Blantyre,2926,Central hospital,Public,Urban,TA Kapeni,-15.80208,35.02072,15026,15009,15053,15224,672.7.8.1
+673,Raiply Clinic,Mzimba South,531,Health centre,Private,Rural,TA Kampingo Sibande,-11.91644,33.75598,210,214,216,226,673.19.4.2
+674,Rumphi District Hospital,Rumphi,417,District hospital,Public,Semi-urban,TA Chikulamayembe,-11.01972,33.85417,2944,2929,2914,2947,674.14.7.1
+675,Ruo Dispensary,Mulanje,3241,Dispensary,Public,Rural,TA Mabuka,-16.08964,35.66507,284,275,274,273,675.15.3.1
+676,Sadzi Health Centre,Zomba,2734,Health centre,Public,Rural,TA Chikowi,-15.40882,35.31969,1073,1017,1051,1033,676.2.4.1
+677,Salima District Hospital,Salima,1415,District hospital,Public,Semi-urban,TA Karonga,-13.76178,34.42183,6451,6409,6455,6580,677.22.7.1
+678,Sambankhanga Health Centre,Thyolo,3143,Health centre,Public,Urban,TA Kwethemule,-16.13981,35.09852,314,318,298,313,678.6.4.1
+679,Sangiro Health Centre,Karonga,212,Health centre,Public,Rural,TA Wasambo,-10.51594,34.21325,203,209,241,222,679.9.4.1
+680,Sanjika Clinic,Blantyre,2977,Dispensary,Public,Urban,TA Kuntaja,-15.79267,34.97288,27,31,32,44,680.7.3.1
+681,Sankhulani Health Centre,Nsanje,3411,Health centre,Public,Rural,TA Mlolo,-16.45686,35.25889,695,699,700,730,681.25.4.1
+682,Santhe Health Centre,Kasungu,1014,Health centre,Public,Rural,TA Santhe,-13.46694,33.394,829,866,758,780,682.17.4.1
+683,Satemwa Clinic,Thyolo,3144,Health centre,Public,Rural,TA Mphuka,-16.07641,35.07692,987,985,953,942,683.6.4.1
+684,Senga Bay Baptist Medical Clinic,Salima,1416,District hospital,Public,Semi-urban,TA Maganga,-13.74117,34.59536,1070,1118,1070,1041,684.22.7.1
+685,Senzani Health Centre,Ntcheu,1829,Health centre,Public,Rural,Senior TA Tsikulamowa,-15.07864,34.85786,633,620,618,656,685.13.4.1
+686,Sharpe Valley Health Centre,Ntcheu,1830,Special / other site,Public,Rural,TA Goodson Ganya,-14.61117,34.73672,684,678,709,742,686.13.12.1
+687,Shifa Private Clinic,Blantyre,5028,Other hospital,Private,Urban,TA Kapeni,-15.78715,35.01045,122,126,125,137,687.7.1.2
+688,Simlemba Health Centre,Kasungu,1015,Health centre,Public,Rural,TA Simlemba,-12.74092,33.67669,388,389,396,401,688.17.4.1
+689,Sinyala Health Centre,Mangochi,2538,Health centre,Public,Rural,TA Mbwana Nyambi,-14.58102,35.57615,132,130,123,119,689.8.4.1
+690,Sister Martha Hospital,Mangochi,2530,Health centre,Public,Rural,TA Jalasi,-14.38528,35.53556,352,356,367,377,690.8.4.1
+691,Sister Theresa Community Hospital Mikoke,Ntcheu,1836,Rural / community hospital,Public,Rural,Senior TA Tsikulamowa,-14.99925,34.82819,1559,1561,1597,1634,691.13.5.1
+692,Soche Adventist Health Centre,Blantyre,2920,Health centre,Public,Urban,Zingwangwa South Ward,-15.8105,35.06378,218,220,225,229,692.7.4.1
+693,Soche Maternity,Blantyre,2919,Special / other site,Public,Urban,TA Somba,-15.85767,35.0275,709,680,789,829,693.7.12.1
+694,Somba Health Centre,Mangochi,2591,Health centre,Public,Rural,TA Mbwana Nyambi,-14.64701,35.53803,347,361,366,369,694.8.4.1
+695,Sorgin Health Centre,Nsanje,3412,Health centre,Public,Rural,TA Mbenje,-16.54139,35.01445,1453,1480,1504,1562,695.25.4.1
+696,South Lunzu Health Centre,Blantyre,2925,Health centre,Public,Urban,TA Machinjiri,-15.72678,35.05472,2923,2865,2974,3047,696.7.4.1
+697,Ssh,Lilongwe,4090,Special / other site,Private,Urban,Area 4,-13.97345,33.77328,166,179,171,171,697.1.12.2
+698,St Andrews Clinic,Kasungu,1029,Special / other site,Public,Semi-urban,TA Wimbe,-13.03294,33.67125,1204,1208,1176,1189,698.17.12.1
+699,St Anne's Health Centre,Karonga,213,Health centre,Public,Rural,TA Wasambo,-10.41189,34.21158,307,313,309,331,699.9.4.1
+700,St Anne's Mission Hospital,Nkhotakota,1115,District hospital,Public,Semi-urban,TA Malenga Chanzi,-12.92672,34.29603,1353,1276,1322,1739,700.4.7.1
+701,St Augustine Health Centre,Kasungu,1034,Health centre,Public,Rural,TA Wimbe,-12.92476,33.77742,187,188,192,224,701.17.4.1
+702,St Faith Anglican Clinic,Kasungu,1038,Health centre,Public,Rural,TA Wimbe,-12.92886,33.7952,165,171,169,183,702.17.4.1
+703,St Gabriel Mission Hospital,Lilongwe,1541,District hospital,Public,Rural,TA Kalolo,-13.98439,33.35094,2714,2721,2724,2734,703.1.7.1
+704,St John Of God Clinic,Mzimba North,725,Special / other site,Public,Urban,TA Mtwalo,-11.45571,34.01381,72,83,84,86,704.20.12.1
+705,St John's Mission Hospital,Mzimba North,718,District hospital,Public,Urban,TA Mtwalo,-11.45156,34.02831,2746,2763,2781,2772,705.20.7.1
+706,St Joseph Mission Hospital Nguludi,Chiradzulu,2808,District hospital,Public,Rural,TA Likoswe,-15.80178,35.1688,4124,4161,4204,4226,706.3.7.1
+707,St Lukes Mission Hospital,Zomba,2719,District hospital,Public,Rural,TA Malemia,-15.209,35.35264,3677,3658,3715,3686,707.2.7.1
+708,St Martins Mission Hospital,Mangochi,2516,District hospital,Public,Rural,TA Chowe,-14.3475,35.29361,1698,1713,1718,1755,708.8.7.1
+709,St Martins Molere Health Centre,Thyolo,3118,Health centre,Public,Rural,TA Changata,-16.21764,35.13575,942,970,1011,1035,709.6.4.1
+710,St Mary's Chisumulu Health Centre,Likoma,602,Health centre,Public,Rural,TA Mkumpha,-12.02908,34.62419,170,175,178,181,710.33.4.1
+711,St Montfort Hospital,Chikwawa,3316,District hospital,Public,Rural,TA Lundu,-16.25656,34.86875,4235,4208,4255,4370,711.5.7.1
+712,St Peters Mission Hospital,Likoma,601,District hospital,Public,Rural,TA Mkumpha,-12.06483,34.73642,610,638,614,625,712.33.7.1
+713,St Vincent Health Centre Chadzunda,Blantyre,2932,Health post,Public,Rural,TA Somba,-15.91421,34.94984,751,760,738,767,713.7.6.1
+714,Sucoma Clinic Illovo,Chikwawa,NA,Health centre,Public,Rural,TA Lundu,-16.40314,34.8832,769,775,831,959,714.5.4.1
+715,Sukasanje Health Centre,Phalombe,3513,Health centre,Public,Rural,TA Nkhulambe,-15.93047,35.76542,3791,3821,3838,3657,715.29.4.1
+716,Sunrise Private Clinic,Mzimba North,6171,Health centre,Private,Semi-urban,TA Mtwalo,-11.44578,34.02623,NA,0,0,NA,716.20.4.2
+717,Tachira Private Clinic,Lilongwe,1587,Special / other site,Private,Urban,Area 46,-14.01916,33.72849,96,98,90,75,717.1.12.2
+718,Taluska Medical Centre,Lilongwe,4019,Special / other site,Private,Urban,TA Njewa,-13.97332,33.75582,62,62,61,58,718.1.12.2
+719,Tedzani Escom Clinic,Neno,2997,Dispensary,Private,Rural,TA Kunthembwe,-15.5609,34.78638,130,122,121,129,719.26.3.2
+720,Tembwe Health Centre,Mchinji,1613,Health centre,Public,Rural,TA Mlonyeni,-13.90111,33.06194,722,717,696,707,720.28.4.1
+721,Tengani Health Centre,Nsanje,3413,Health centre,Public,Rural,Nsanje Boma,-16.91753,35.27033,1397,1432,1485,1513,721.25.4.1
+722,Thambani Health Centre,Mwanza,3012,Health centre,Public,Rural,Senior TA Govati,-15.72583,34.39972,791,792,769,784,722.32.4.1
+723,Thavite Health Centre,Salima,1417,Health centre,Public,Semi-urban,TA Mwanza,-13.49906,34.26125,559,579,583,603,723.22.4.1
+724,The Clinic,Lilongwe,NA,Other hospital,Private,Urban,Area 3,-13.98495,33.76415,58,59,59,64,724.1.1.2
+725,Thekerani Health Centre,Thyolo,3119,Rural / community hospital,Public,Rural,TA Nsabwe,-16.32106,35.20716,2729,2677,2746,2731,725.6.5.1
+726,Thembe Health Centre,Mulanje,3218,Dispensary,Public,Rural,TA Mabuka,-16.08722,35.43361,457,476,496,516,726.15.3.1
+727,Thomasi Health Centre,Thyolo,3120,Health centre,Public,Rural,TA Thomas,-16.02783,34.97967,795,809,821,810,727.6.4.1
+728,Thondwe Health Centre,Zomba,2721,Health centre,Public,Rural,TA Mlumbe,-15.48453,35.23722,1839,1877,1878,1892,728.2.4.1
+729,Thonje Health Centre,Dowa,1320,Health centre,Public,Rural,TA Chiwere,-13.72483,34.23739,288,294,288,283,729.16.4.1
+730,Thuchila Health Centre,Mulanje,3219,Health centre,Public,Rural,TA Juma,-15.91889,35.36111,3618,3663,3940,3554,730.15.4.1
+731,Thumbwe Health Centre,Chiradzulu,2811,Health centre,Public,Rural,TA Kadewere,-15.76559,35.24878,2334,2335,2338,2366,731.3.4.1
+732,Thunduwike Health Centre,Mzimba North,719,Health centre,Public,Rural,TA Mpherembe,-11.17647,33.57611,596,587,593,591,732.20.4.1
+733,Thunga Health Centre,Thyolo,3145,Health centre,Public,Rural,TA Bvumbwe,-16.00096,35.06532,1668,1661,1636,1675,733.6.4.1
+734,Thyolo District Hospital,Thyolo,3121,District hospital,Public,Semi-urban,TA Nchilamwela,-16.07019,35.15219,13141,12531,12480,12659,734.6.7.1
+735,Tikondane Private Clinic,Nsanje,3435,Special / other site,Private,Urban,TA Mbenje,-16.41919,35.17154,72,72,74,76,735.25.12.2
+736,Tiyese Maternity Clinic,Dedza,1738,Special / other site,Private,Rural,TA Kaphuka,-14.29613,34.16295,3,3,4,5,736.12.12.2
+737,Trinity Mission Hospital,Nsanje,3414,District hospital,Public,Rural,TA Mlolo,-16.41917,35.17175,2906,2902,2798,2808,737.25.7.1
+738,Tsangano Health Centre,Ntcheu,1831,Health centre,Public,Rural,TA Mpando,-15.17392,34.61092,295,314,350,378,738.13.4.1
+739,Tsoyo Dispensary,Dedza,1724,Special / other site,Public,Rural,TA Chauma,-14.14775,34.16122,101,107,117,110,739.12.12.1
+740,Tulonkhondo Health Centre,Mwanza,3013,Health centre,Public,Rural,TA Kanduku,-15.74972,34.52306,464,478,523,554,740.32.4.1
+741,Ukwe Health Centre,Lilongwe,1542,Health centre,Public,Rural,TA Kabudula,-13.82592,33.60155,291,293,276,298,741.1.4.1
+742,Ulongwe Health Centre,Balaka,3608,Health centre,Public,Rural,TA Kalembo,-14.86197,35.17667,946,978,992,1022,742.10.4.1
+743,Umoyo Private Clinic,Lilongwe,4022,Special / other site,Private,Urban,TA Tsabango,-13.79586,33.17534,92,95,104,92,743.1.12.2
+744,Umunthu Foundation Clinic,Blantyre,5128,Special / other site,Public,Urban,TA Machinjiri,-15.83547,35.09438,879,940,953,981,744.7.12.1
+745,Usisya Health Centre,Nkhata Bay,319,Health centre,Public,Rural,TA M'bwana,-11.23639,34.20778,489,502,486,484,745.31.4.1
+746,Utale 1 Health Centre,Balaka,3609,Health centre,Public,Rural,TA Nkaya,-15.17753,35.06433,368,384,413,425,746.10.4.1
+747,Utale 2 Health Centre,Balaka,3610,Health centre,Public,Rural,TA Nkaya,-15.16847,35.07,876,880,879,829,747.10.4.1
+748,Vibangala Dispensary,Mzimba South,543,Dispensary,Public,Rural,TA Mzukuzuku,-12.23436,33.48617,108,107,98,107,748.19.3.1
+749,Wenya Health Centre,Chitipa,109,Health centre,Public,Rural,TA Mwenewenya,-10.11278,33.56333,192,194,193,198,749.24.4.1
+750,Wezi Medical Centre,Mzimba North,6017,Other hospital,Private,Urban,Masasa Ward,-11.46586,34.0136,270,70,0,NA,750.20.1.2
+751,Wiliro Health Centre,Karonga,214,Health centre,Public,Rural,TA Kyungu,-9.893056,33.61389,90,93,87,94,751.9.4.1
+752,Wimbe Health Centre,Kasungu,1016,Health centre,Public,Rural,TA Wimbe,-12.99122,33.68697,246,228,229,235,752.17.4.1
+753,World Medical Fund,Nkhotakota,1122,Other hospital,Public,Semi-urban,TA Malenga Chanzi,-12.91536,34.28338,104,105,100,97,753.4.1.1
+754,Yankho Private Clinic,Kasungu,1041,Special / other site,Private,Urban,TA Kaomba,-13.0404,33.48111,84,82,88,81,754.17.12.2
+755,Zalewa Pih,Neno,3713,Special / other site,Public,Rural,TA Symon Likongwe,-15.4499,34.8503,1524,1575,1554,1561,755.26.12.1
+756,Zilindo Health Centre,Zomba,2735,Health centre,Public,Rural,TA Mlumbe,-15.3805,35.3013,296,245,255,254,756.2.4.1
+757,Zingwangwa Health Centre,Blantyre,2922,Health centre,Public,Urban,TA Kapeni,-15.81803,34.99822,3448,3441,3524,3642,757.7.4.1
+758,Zoa Health Centre,Thyolo,3123,Health centre,Public,Semi-urban,Senior TA Mbawela,-16.23769,35.19978,1368,1121,1219,1216,758.6.4.1
+759,Zomba Central Hospital,Zomba,2722,Central hospital,Public,Urban,TA Chikowi,-15.39914,35.31286,7192,7218,7213,7274,759.2.8.1
+760,Zomba Central Prison Clinic,Zomba,2762,Health centre,Public,Urban,TA Mlumbe,-15.39506,35.32417,706,688,742,747,760.2.4.1
+761,Zomba Mental Hospital,Zomba,2727,Special / other site,Public,Urban,Mbedza Ward,-15.39889,35.30467,84,76,79,80,761.2.12.1
+,,,,,,,,,,,,,,
